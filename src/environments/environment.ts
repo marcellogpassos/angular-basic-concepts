@@ -1,4 +1,4 @@
 export const environment = {
   production: false,
-  api: 'http://demo5697999.mockable.io',
+  api: 'https://demo5697999.mockable.io',
 };
