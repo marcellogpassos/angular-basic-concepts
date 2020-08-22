@@ -1,0 +1,3002 @@
+Number,Gender,Name,City,Birthday
+0,male,Marcello Passos,João Pessoa,1990-04-05
+1,female,William Clay,Charlottesville,1947-04-25
+2,female,George Jennings,Englewood,1960-12-05
+3,male,Kevin Lamb,Medical Lake,1962-01-21
+4,male,Estela Figueroa,Piscataway,1988-04-06
+5,female,Susan Rodriguez,San Antonio,1958-09-08
+6,female,Chad Larkin,Boise,1991-01-29
+7,female,Marlon Eastland,San Diego,1961-09-07
+8,male,Theresa Hodge,Laurens,1940-11-01
+9,male,James Upton,Anaheim,1980-08-05
+10,female,Fannie Russell,Hattiesburg,1991-01-30
+11,female,Bessie Patterson,Seattle,1949-02-27
+12,female,Sylvia Thompson,Springfield,1995-11-28
+13,male,Angel Smith,Albuquerque,1979-12-31
+14,male,James Lilly,Chicago,1942-09-04
+15,female,Faith Buckner,Philadelphia,1936-04-29
+16,male,Justin Isaacs,Camillus,1958-10-26
+17,male,Michael Pringle,Eau Claire,1957-07-29
+18,female,Cindy Davis,San Francisco,1986-03-25
+19,female,Howard Campbell,Ames,1982-05-06
+20,male,Stanley Howard,San Jose,1954-10-27
+21,male,Gail Stephens,Maine,1945-11-02
+22,male,Shawn Braun,Fisk,1944-04-15
+23,female,Lucille Palmer,Waco,1947-01-19
+24,male,Peter Bonneau,Seattle,1995-07-15
+25,male,Robert Russell,Landover,1934-09-26
+26,male,Gladys Marquez,Shoreham,1956-01-20
+27,male,James Fetty,Topeka,1958-08-17
+28,female,Robert Brand,Chicago,1949-04-28
+29,female,Debra Thomas,Roanoke Rapids,1942-06-03
+30,male,Anita Santos,Indian Orchard,1950-01-03
+31,female,Edythe Lanier,Winooski,1991-10-01
+32,male,Lauren Wood,Millwood,1964-04-09
+33,female,Dorothy Dye,Jeannette,1955-11-11
+34,female,Mona Chappelle,Dayton,1946-08-02
+35,male,Marcy Hall,Lancaster,1984-03-03
+36,male,Dennis Wells,Sioux Falls,1994-09-01
+37,male,Margaret Yeager,Sacramento,2001-02-03
+38,male,Charles Parker,Tulsa,1963-06-25
+39,male,Matthew Martin,Palm Springs,1935-09-04
+40,male,Elizabeth Romero,Plymouth Meeting,1983-10-16
+41,male,Walter Burns,Cincinnati,1983-12-07
+42,female,Erin Brooks,Birmingham,1961-01-25
+43,male,Eric Squier,Van Nuys,1983-01-11
+44,female,Donald Jones,Macon,1976-04-21
+45,female,Ericka Statler,Santa Monica,1960-01-23
+46,male,Felicia Brown,Hancock,1991-11-10
+47,female,Frank Hinkle,Cleveland,1967-01-06
+48,female,Roger Morse,Mission,1946-01-16
+49,female,Roger Langley,Sioux Falls,1976-12-21
+50,female,Owen Pfister,Cheyenne,1984-12-03
+51,female,Robert Brumbelow,Las Vegas,1970-06-10
+52,female,Craig Gonzales,Northridge,1935-07-09
+53,male,Leslie Hawkins,Shreveport,1971-03-04
+54,female,Elizabeth Palmer,Lincoln,1958-03-10
+55,male,Christopher Colbert,Phoenix,1991-10-28
+56,female,Isadora Carver,Texarkana,1992-11-28
+57,male,Jeanette Johnson,Waterbury,1935-11-10
+58,female,Henry Edwards,Bismarck,1947-02-17
+59,female,Jimmy Bermudez,Herndon,1950-02-16
+60,female,Francisco Turner,Kansas City,1967-08-23
+61,female,Tereasa Ferguson,Boston,1983-02-08
+62,male,Sandra Weiss,Washington,1965-12-29
+63,female,Marge Troche,Boise,1964-08-07
+64,male,Juan Sherman,Savage,1985-08-02
+65,male,Wendy Sharp,Newark,1982-03-19
+66,female,Ronald Cook,Minneapolis,1993-06-07
+67,male,Alice Ramsey,Tulsa,1971-09-24
+68,male,Suzanne Dudley,Smithville,1938-10-15
+69,male,Kenneth Ryman,Tampa,1963-01-20
+70,female,Maria Green,Centerville,1967-05-10
+71,male,Kazuko Hernandez,Monroe,1996-04-02
+72,male,Patricia Combs,Pleasanton,1940-01-17
+73,male,Sara Welch,Pensacola,1973-07-22
+74,female,Edward Hubbard,Charlotte,1948-11-22
+75,female,Michael Andrews,Allen,1985-03-05
+76,female,Angela Jones,Harrisburg,1950-05-09
+77,female,Robert Fulcher,Gallatin,1991-05-20
+78,male,Columbus Cartier,Dayton,1957-02-19
+79,male,Billy Shaw,Cincinnati,1987-04-16
+80,male,Dolores Petrey,Fort Towson,1937-11-05
+81,male,Curtis Bickford,Newport News,1955-05-19
+82,female,Rodney Stallings,Anchorage,1991-03-11
+83,male,Chanda Willie,Wichita,1937-09-02
+84,female,Robert Brown,Oklahoma City,1944-01-20
+85,female,William Belcher,New York,1961-01-23
+86,male,Owen Wallace,Biloxi,1980-04-04
+87,male,Timothy Hunter,Port Washington,1981-06-16
+88,male,James Ozuna,Garrettsville,1972-06-22
+89,male,Reginald Smith,Houston,1939-09-29
+90,female,Paul Rosales,Sugar Land,2001-02-13
+91,male,Nicole Hutton,Corpus Christi,1952-08-26
+92,male,Barry Arrington,Lakeside,1998-07-30
+93,male,Jackie Conard,Oakland,1976-08-31
+94,female,Barbara McFarland,Tres Pinos,1997-01-03
+95,male,William Swanson,Los Angeles,1985-10-07
+96,male,Joseph Hall,Buffalo,1938-09-08
+97,female,Dan Rodriguez,Tupelo,1950-06-09
+98,male,Clifton Veltri,Brandon,1969-12-03
+99,male,Lilly Killian,Tulsa,1981-12-18
+100,female,Mae Spencer,Gulfport,1942-02-27
+101,male,Lucia Christenson,Rockford,1969-12-27
+102,male,Carolina Morgan,Chico,1967-06-16
+103,male,Harvey Rivera,Portland,1989-11-25
+104,female,Pamela Gregory,Manchester,1949-07-10
+105,female,Daniel Cox,Oakland,1990-10-26
+106,female,Loretta McDonald,Boulder,1999-08-07
+107,female,Darwin Capps,Overland Park,1938-12-13
+108,male,Michael Kimball,Oklahoma City,1958-10-27
+109,female,Rasheeda Whitehead,New Brunswick,1998-04-21
+110,male,Paul Sharpe,Kansas City,1986-07-24
+111,male,Lindsay Tinsley,Schaumburg,1998-10-17
+112,female,Kayla Joyce,Washington,1952-05-24
+113,male,Hazel Heintzelman,Minneapolis,1978-06-29
+114,female,Theresa Dinsmore,New York,1968-09-11
+115,male,Joyce Stephens,Jasper,1967-06-01
+116,male,David Shaw,Fort Myers,1983-07-31
+117,female,Yetta Smith,Sidney,1939-06-11
+118,male,Edith Levasseur,Acton,1990-08-19
+119,female,Charlie Koenig,Birmingham,1982-06-01
+120,male,Walter Fisher,Grand Rapids,1997-10-18
+121,male,Alice Dalton,Freeport,1972-03-23
+122,female,Dennis Godines,Milwaukee,1956-01-02
+123,male,Janelle Marlow,Tampa,1943-02-18
+124,male,Gloria Rowe,Los Angeles,1954-01-26
+125,male,Dolores Smith,Burbank,1949-03-13
+126,male,Jenny Keefer,Somerville,1950-11-25
+127,male,Adam Sneed,Memphis,1945-08-24
+128,male,Renee Sosa,Los Angeles,1957-08-30
+129,male,Steven Henry,Lubbock,2001-01-23
+130,female,Jim Day,Saint Louis,2001-07-18
+131,female,Ruth Money,Tallahassee,2001-04-30
+132,female,Lesley Ridley,Elmhurst,1936-07-27
+133,male,Eddie Knotts,Lincolnton,1993-01-01
+134,female,Harold Tusing,Baltimore,1976-08-18
+135,male,Carl Armenta,Alexandria,1951-11-29
+136,female,Glenn Miller,White Plains,1991-04-19
+137,female,Mitchel Whittaker,Richmond,1996-07-07
+138,male,Carmen Faber,San Antonio,1971-10-08
+139,male,Mary Ray,Greenville,1935-12-15
+140,male,Elmer Edwards,Stewardson,1943-07-23
+141,female,Vivian Griffin,Sellersburg,1945-09-11
+142,female,Benjamin Gilbreath,Paola,1962-04-10
+143,male,Gerry Cruz,Granger,2001-05-17
+144,male,Dwight Fulton,College Grove,1964-11-03
+145,male,Lawrence Dickman,Los Angeles,1940-06-10
+146,male,Jacquelynn Tuttle,West Allis,1937-09-03
+147,male,April Childs,Nashville,1952-04-16
+148,male,Karla Russell,Detroit,1950-05-26
+149,male,Jeremiah Leduc,Los Angeles,1957-08-06
+150,female,Susan Crandall,Hillside,1939-09-25
+151,female,Stephanie Williams,Southfield,1956-01-25
+152,male,Tom Dixon,Silver Spring,1945-06-10
+153,female,Edna Pollman,Enterprise,1991-06-17
+154,male,Lois Neal,Pine Bluff,1963-01-14
+155,male,Kimberly Bowser,West Roxbury,1994-02-19
+156,female,Bobbie Smith,Greenville,1956-02-10
+157,female,Allen Johnson,Fredericksburg,1989-05-29
+158,male,Max Lujan,Southfield,1947-03-22
+159,female,Margery Lancaster,West Enfield,1971-03-04
+160,female,Jessica Folkerts,Charlotte,1952-04-09
+161,male,Evelyn Gonzales,Madison,1940-10-21
+162,male,Gino Gillespie,Baltimore,1960-07-02
+163,female,Max Cox,Hollywood,1970-08-14
+164,male,Rose Siegel,La Vernia,1962-09-13
+165,male,Wilma Barrera,Memphis,1972-03-14
+166,male,Dorothea Grimm,Philadelphia,1935-09-20
+167,male,Clara Kovacs,Atlanta,1947-06-22
+168,female,Noel Hart,San Francisco,1955-09-03
+169,female,Elizabeth Dolan,Baltimore,1983-09-09
+170,female,William Gardener,Fremont,1953-01-15
+171,female,Theresa Horner,Huntington,1970-12-29
+172,female,Angela Walsh,Worcester,1954-01-19
+173,male,Judy Jones,Mankato,1952-10-07
+174,male,Bernice Lee,Saginaw,1995-11-14
+175,female,William Kates,Hurricane,1975-12-30
+176,male,Suzanne Hutcheson,Miami,1944-05-22
+177,male,Larry Marr,Oceanside,1998-02-09
+178,female,Stacy Dixon,Snyder,1998-06-16
+179,female,Susan Cantu,Kansas City,1977-07-12
+180,female,William Conaway,Sellersburg,1965-05-04
+181,male,Kathleen Loera,Cambridge,1998-05-12
+182,female,David Sharma,St George,1999-10-15
+183,female,Dan Sanders,Richmond,1989-12-11
+184,female,David Owen,Burr Ridge,1935-08-02
+185,female,Linda Perkins,Lind,1994-01-04
+186,male,Rose Epps,Orange,1971-08-20
+187,female,Thelma Graham,Shreveport,1955-12-18
+188,female,Maria Oneil,Farmington,1940-02-29
+189,female,James Matthews,Knoxville,1999-05-14
+190,male,John Lozano,New Providence,1976-08-29
+191,male,Joyce Boatwright,Boerne,1990-06-30
+192,female,Mercedes Foster,Toledo,1998-02-10
+193,female,Rusty Cooper,Milroy,1987-09-30
+194,male,Jeremy Quesada,Winchester,1967-03-08
+195,male,Alexander Curry,Belle Mead,1942-06-12
+196,female,Reynaldo Ali,Brentwood,1978-12-10
+197,female,Amy Burns,Charlotte,1986-05-14
+198,female,Ingeborg Avila,San Diego,1968-08-17
+199,female,Gary Brown,Palm Springs,1992-09-26
+200,female,Horace Bridges,Jackson,1970-06-21
+201,female,Mark Smith,Jonesboro,1991-01-08
+202,male,Jeff Tesch,Arlington,1952-01-24
+203,female,Melinda Smith,Westland,1935-10-30
+204,male,Chloe Kulas,Buffalo,1952-08-04
+205,male,Frances Trent,Albany,1968-11-10
+206,male,Michael Caron,San Francisco,1995-02-16
+207,female,Mattie Hoover,Riverhead,1965-09-30
+208,male,Susan Green,Providence,1957-10-13
+209,male,Doris Lundgren,Winter Haven,1993-06-25
+210,male,Joy Booth,Paducah,1995-08-30
+211,female,Tom Ellis,Gallup,1966-04-02
+212,male,Robert Taylor,Brookline,1943-01-05
+213,female,Gary Langston,San Angelo,1947-11-08
+214,male,Miguelina Moreno,San Antonio,1999-02-19
+215,female,Todd Smith,Roxobel,2001-05-03
+216,female,Anthony Mendivil,Funk,1941-10-26
+217,female,Cynthia Ruark,Florence,1999-08-10
+218,female,Lauren Aker,Indianapolis,1957-03-15
+219,male,Pam Coleman,Gap,1976-07-14
+220,female,Theresa Villegas,Sheboygan Falls,1975-03-10
+221,male,Christopher Morin,Bellevue,1977-10-20
+222,female,Cassandra Morgan,Hanover,1964-09-10
+223,male,Vilma Smith,Levittown,1960-08-28
+224,female,Eddie Bianco,Athens,1970-02-18
+225,female,Glen Teal,Phoenix,1972-10-27
+226,female,George Purkey,Adak,1934-10-17
+227,female,Dennis Simmons,Los Angeles,1953-04-27
+228,male,Gary Mathewson,New Orleans,1935-06-19
+229,female,Jennifer French,Santa Fe Springs,1984-09-25
+230,male,Rosemary Berry,Dutton,1988-10-14
+231,male,Joan Brooks,Lombard,1941-10-19
+232,female,Samuel Stiger,Bearden,1964-07-29
+233,female,Rachel Greenbaum,Stoughton,1989-11-04
+234,male,Jan Donnellan,Portland,1936-01-13
+235,female,Ellen Perez,Barnum,1994-02-02
+236,female,Pamela Johnson,Spokane,1950-02-25
+237,female,Ramona Guglielmo,Jackson,1991-08-03
+238,male,Mae Marcum,San Jose,1978-02-21
+239,male,Rick Bruckner,Seattle,1989-12-27
+240,male,Robert McKoy,Bauxite,1981-06-14
+241,female,Sharon Elms,Minneapolis,1973-03-31
+242,male,James Wingler,Flint,1967-09-21
+243,male,Marisol Guillory,Helena,1995-02-01
+244,female,Wanda Beckman,Houston,1961-11-07
+245,male,Stephanie Lander,Kansas City,1950-01-24
+246,female,Jennifer Warner,Collinsville,1994-04-11
+247,female,George Wright,Englewood,1990-05-28
+248,male,Matthew Paquette,Ellenburg Depot,1985-07-27
+249,male,Jason Boyd,Boston,1979-08-30
+250,female,Linda Luther,Albany,1945-09-05
+251,male,Herman Boland,Hartford,1941-10-21
+252,female,Eddie Evans,Bremerton,1940-04-15
+253,male,Lee George,Stoneville,1947-01-15
+254,male,Susan Jones,Canton,1971-03-10
+255,female,Christina Patterson,Newark,1941-09-07
+256,female,Steven Dejesus,Branchburg,1943-01-31
+257,female,Randall Perez,Penfield (Clearfield),1996-05-05
+258,male,Patrick Duncanson,Camden,1967-10-26
+259,female,Adelaide Perez,Foxboro,1975-02-25
+260,female,Nathan Rodarte,Albany,1964-04-03
+261,male,Joyce Knepp,Hartford,1965-07-20
+262,female,Annette Palmer,Las Vegas,1992-07-18
+263,male,Paul Woodruff,New York,1943-07-16
+264,female,Norma Perez,Clarence,1956-09-01
+265,female,Terry Hernandez,Riverside,1994-10-25
+266,female,William Lundy,Somerset,1995-07-07
+267,female,Ruth McKinney,Fort Lauderdale,1990-01-07
+268,male,Christie Champion,Greenville,1966-04-03
+269,female,Joseph Sasaki,Bakersfield,1970-01-11
+270,female,Gayla Heinz,Cedar Rapids,1977-05-26
+271,female,George Taylor,Pittsburgh,1943-03-17
+272,male,Grace Swaney,Saint Paul,1996-04-13
+273,male,Clara Ross,Atlanta,1940-04-03
+274,male,Della Blumberg,Milwaukee,1962-05-14
+275,male,Giuseppe Murray,Newberry,1989-05-04
+276,female,Daniel McCloud,Leicester,1986-08-18
+277,male,Jessie Davis,San Antonio,1971-04-09
+278,male,Devorah Kirby,Ionia,1995-08-16
+279,male,Golda Tutt,Riverbank,1995-11-26
+280,male,Mercedes Delarosa,Winterset,1957-04-14
+281,female,Diana Sylvia,Armonk Village,1977-01-04
+282,male,Clara Gaskins,Golden Meadow,1954-03-19
+283,male,Sheryl Turner,Urich,1956-12-18
+284,female,Lori Rankin,Southfield,2001-06-10
+285,female,Mai Emery,Roanoke,1962-02-24
+286,female,Peggy Evans,Horton,1940-12-01
+287,female,Anthony Benson,Houston,1939-10-29
+288,male,Leon Gabriel,Washington,1980-08-07
+289,male,Alvin Strecker,Cleveland,2000-01-29
+290,female,Florence Wilson,Roanoke Rapids,1979-01-12
+291,female,Jennifer Scheer,Amarillo,1965-02-08
+292,female,Gloria Morton,Adelphi,1964-02-16
+293,male,Michael Fisher,Jackson,1939-12-31
+294,male,Betty Caballero,Kansas City,1979-04-09
+295,male,Rebecca Lincoln,Troy,1954-11-30
+296,female,Bertha Brown,Traverse City,1963-08-05
+297,male,Eduardo Ridge,Philadelphia,1976-01-20
+298,female,Ruth Johnson,Philadelphia,1936-03-02
+299,female,Latasha Rivera,Steubenville,1971-11-08
+300,male,Carol Howard,Kemmerer,1964-05-28
+301,female,Christine Gay,Hanover,1960-10-03
+302,female,James Fulks,Fort Smith,1973-12-16
+303,female,Jennifer Mills,Mount Vernon,1950-11-03
+304,male,Lillian Jackson,Bothell,1975-02-27
+305,male,Ivan Tobin,Pacific Palisades,1978-03-07
+306,male,Ethel Tharp,Tukwila,2001-04-06
+307,male,Mark Corbett,Norcross,1984-09-28
+308,female,Ernest Littlefield,Garden City,1967-06-01
+309,male,Theodore Anglin,Atlanta,1952-08-02
+310,male,Karen Anderson,Oakland,1999-01-06
+311,male,Dalila Contreras,Greenbelt,1987-06-28
+312,male,Kip Zurita,New York,1949-04-03
+313,female,Cornelia Weitzel,Los Angeles,1966-01-26
+314,male,Benjamin Boucher,Fort Washington,1953-04-06
+315,female,George Marquis,Blissfield,1937-03-19
+316,male,Steven Weaver,Charlotte,1987-02-27
+317,male,Georgia Jolley,Lyndhurst,1969-09-28
+318,male,Carrie Roberts,Little Rock,1973-07-09
+319,male,Manuel Chu,Chicago,1944-08-02
+320,female,Renee Fiscus,Sergeant Bluff,1990-04-03
+321,female,Sarah Moore,Rancho California,1952-05-11
+322,female,Adelaide Levy,Hickory Hills,1982-01-10
+323,male,Gino Anderson,Altavista,1976-09-12
+324,female,Philip Bartlett,Erie,1978-05-22
+325,male,Patricia Engelhardt,Los Angeles,1955-12-30
+326,male,Thomas Hatfield,Hamlet,1957-07-18
+327,male,Gwendolyn Daniel,Indianapolis,1983-09-16
+328,female,Aubrey Wedding,Monsey,1998-08-30
+329,male,Michael Baker,Las Vegas,1992-03-04
+330,female,David Duran,Jacksonville,1982-09-25
+331,male,Matthew Delarosa,San Diego,1955-10-06
+332,female,Ronald Smith,Miami,1936-09-17
+333,female,Michael Rush,Mountain View,1976-04-04
+334,female,Debra Moore,Greenfield,1980-07-30
+335,female,David Failla,Chicago,1979-07-23
+336,male,Olga Fuchs,Boston,1964-12-23
+337,female,Robert Rivas,Mcclellan,1979-03-20
+338,female,Thomas Flores,Eugene,1954-05-30
+339,female,Donna Davis,Bakersfield,1973-02-16
+340,female,Elisa Conner,Atlanta,1939-04-27
+341,female,Millie Bradley,Hanover,2000-11-04
+342,male,Stephanie Evans,Lexington Park,2001-05-15
+343,male,Stephanie Saunders,Philadelphia,1961-10-11
+344,female,Chanel Jameson,Burbank,1966-01-02
+345,male,Alfredo Gonzalez,Woodlawn,1996-08-22
+346,male,Tim Elder,Wichita,1944-10-01
+347,female,Gloria Guay,Euless,1951-08-26
+348,female,Kenneth Amador,Grand Prairie,1960-01-14
+349,male,Kenneth Golden,Minneapolis,1971-11-09
+350,female,Marjorie Ballenger,Southfield,1996-01-29
+351,male,Kevin Benoit,Little Rock,1991-08-24
+352,male,George Kendrick,White Cloud,1948-01-01
+353,female,Walter Farnsworth,Cincinnati,1985-01-28
+354,female,John Batchelder,Philadelphia,1973-07-03
+355,female,Antoinette Goodwin,Blue Hill,1988-10-24
+356,female,Lavada Santana,Dalton,1957-03-26
+357,female,Jeffrey Lipscomb,Galveston,1960-08-11
+358,female,Stanley Sedlacek,Lincolnton,1956-08-29
+359,female,James Hennessey,Tulsa,1937-02-04
+360,male,Timothy Deutsch,Pittsburg,1949-05-07
+361,male,Sarah Skipworth,Newark,1978-05-21
+362,male,Tisha McBride,Exeter,2000-10-08
+363,male,Eduardo Erickson,Niagara Falls,1949-10-01
+364,female,Kyle Olson,New York,1969-06-21
+365,male,Norma Wiedman,Beaumont,1952-05-08
+366,male,Joe Vanleuven,Sioux City,1953-08-17
+367,female,Debra Parker,Hanover,1981-11-26
+368,male,Trish Scott,Danforth,2001-05-10
+369,female,David Leavitt,Winchester,1981-05-25
+370,female,Chuck Hertel,Salinas,1964-12-10
+371,female,Robin Robinson,Marion,1968-06-25
+372,male,Janie Mata,Jerome,1943-05-05
+373,male,Katrina Dunn,Dickinson,1951-04-28
+374,male,Rodger Nieto,Providence,1972-01-14
+375,male,Maxine Collins,Indianapolis,1944-05-15
+376,female,Sherri Champion,New York,1942-09-09
+377,male,Melissa Harner,Toledo,1972-09-26
+378,male,Ava Wilson,Saint Cloud,1971-07-31
+379,female,Josephine Phipps,Fort Myers,1956-02-16
+380,female,Melvin Johnston,Tarrytown,1944-02-24
+381,male,Louise Garten,Brooklyn,1981-05-06
+382,male,Albert Stepp,Junction City,1978-10-07
+383,male,Jose Brown,Arnaudville,1944-02-12
+384,female,Myra Goodwin,Jefferson,1956-08-06
+385,male,Esther Fairweather,Reston,1987-01-31
+386,female,Benjamin Darling,Cincinnati,1984-09-07
+387,female,Mark Holmes,Syracuse,2001-05-15
+388,male,Gerald McCready,Pittsburgh,1999-02-19
+389,male,Alex Jackson,Twin Bridges,1964-06-21
+390,female,Sonia Kaczmarek,Portland,1935-05-26
+391,female,Natasha Swain,Hickory,1992-01-07
+392,male,Debby Roth,Baton Rouge,1951-07-22
+393,male,Derrick Wiley,Larkspur,2001-06-14
+394,female,Marilyn Wood,Grand Rapids,1978-03-06
+395,male,William Finlayson,Umatilla,1953-07-11
+396,male,Jennifer Colon,New Orleans,1958-05-30
+397,male,Sierra Phillips,Eau Claire,1979-10-06
+398,female,Paul Sander,Grand Rapids,1937-11-27
+399,female,Franklin Mizrahi,Raleigh,1939-12-11
+400,male,Edwin Jones,Boca Raton,1956-02-24
+401,female,Pat Durham,Maitland,1964-10-03
+402,female,Kristie Rhodes,Perrine,1962-11-07
+403,male,Elizabeth Stone,Bowling Green,1988-04-09
+404,male,Raymond Poirier,Minneapolis,1966-02-12
+405,female,Ron Billington,Stlouis,1952-03-12
+406,female,Kathleen Hanks,Katy,1958-01-25
+407,male,Pamela Miller,Buffalo,1990-10-03
+408,female,John Lawrence,Eufaula,1993-12-03
+409,female,Bruce Gonzalez,Monahans,1969-01-11
+410,male,Franklin Roberts,Boston,1996-03-04
+411,female,John Rocha,Aiken,1994-04-26
+412,male,Sara Johnston,Smyrna,1939-10-13
+413,male,Kevin Clark,Oxford,1953-01-24
+414,male,Margaret Whaley,San Diego,1981-12-28
+415,female,Maria Roan,Sheffield,2000-09-16
+416,male,Cody Houston,Los Angeles,1989-07-24
+417,female,Emily Gardner,Harrisburg,1940-05-11
+418,female,Dorothy Williams,Louisville,1959-09-10
+419,female,Eva Campbell,Atlanta,1969-12-04
+420,male,Derek McCracken,Bakersfield,1965-10-16
+421,female,Kristin Pierce,Pelham,1951-05-19
+422,female,Joan Nance,Orlando,1980-09-13
+423,male,Scott Moore,Opelika,1986-03-16
+424,female,Joann Wing,Upper Arlington,1984-03-25
+425,female,Raymond Nielsen,Portsmouth,1957-02-19
+426,female,Ruth Pickard,Hancock,1940-12-09
+427,female,Mary Papineau,Camden,1959-05-25
+428,male,Pauline Smith,Hawarden,1991-02-13
+429,male,Jesus Dominguez,Victoria,1937-10-29
+430,female,Christopher Smith,Katy,1985-02-01
+431,male,Michael Ortiz,O Fallon,1938-10-22
+432,male,Frank Milan,Cincinnati,1968-04-05
+433,male,Antonio Mesta,Manasquan,1959-02-16
+434,female,Gail Davis,Columbus,1971-07-15
+435,male,Kathryn Hyde,Atlanta,1990-06-20
+436,male,Teresa Arnold,Buffalo,1953-09-02
+437,female,Philip Neal,Otoe,1998-09-27
+438,female,Charles Sanchez,Stamford,1986-12-28
+439,female,Tammy Garcia,Jerseyville,1958-05-24
+440,female,Charles Joiner,Baton Rouge,1935-07-22
+441,male,Daniel Pray,Tucker,1968-12-17
+442,female,Lloyd Hall,Cary,1960-04-13
+443,female,Danna Lavalle,Red Creek,1981-02-20
+444,female,Charles Vale,Salisbury,1983-03-28
+445,male,Elizabeth Marshall,Powder Springs,1971-01-28
+446,female,Gladys Sanchez,Houston,1952-08-12
+447,female,David Conrad,Charlotte,1965-03-21
+448,female,David Lapp,Puyallup,1941-07-04
+449,female,Jesse Young,Reno,1961-11-03
+450,male,Frederick Fisher,Bartlett,1999-10-05
+451,female,Marietta Lindsey,Doniphan,1974-01-20
+452,male,Joseph Meredith,Eau Claire,1974-01-03
+453,female,Dale Patton,Chico,1987-09-25
+454,male,Norma Shepherd,Newark,1995-06-12
+455,female,April Gray,La Porte City,1999-09-04
+456,male,Ella Dominguez,New Braunfels,1947-12-10
+457,male,Karen Schneider,San Jose,1995-11-07
+458,male,Carlos Bruce,Shippensburg,1939-08-09
+459,female,Gary Colvin,Covington,1970-08-07
+460,female,Jacob Harbison,Philadelphia,1950-04-22
+461,female,Jeffrey Simpson,Johnstown,1986-04-15
+462,female,Rosemarie Grove,Lake George,1946-02-21
+463,male,Michell Bunch,Clinton,1991-07-28
+464,female,Charlene Britt,Austin,1948-05-11
+465,female,Albert Hardy,Philadelphia,1993-12-19
+466,female,Devin Melvin,San Francisco,2001-06-05
+467,male,Sandra Brewer,Campbell,1976-02-11
+468,female,John Hurley,Dallas,1941-03-04
+469,male,Linda Kendall,Hartford,1986-06-23
+470,female,Robert Casas,Shreveport,1995-02-19
+471,female,Jeffrey Henley,Salt Lake City,1936-03-23
+472,female,Wendy Barger,Owens Cross Roads,1960-01-25
+473,female,Buster Watson,Huntsville,1989-01-14
+474,male,Chris Harr,Marquette,1966-08-01
+475,male,William Perez,Lachine,2001-03-16
+476,male,Misty Payne,Hermosa Beach,1947-09-05
+477,male,Charley Choate,Twin Falls,2001-05-11
+478,female,Frances Wright,Mission,1962-09-05
+479,female,Bryan Harrison,Detroit,1977-08-30
+480,female,Kevin Teems,Garden Valley,1999-02-22
+481,male,Gary Montijo,Seattle,1977-07-26
+482,male,Emily Lambdin,Johnson City,1972-10-02
+483,female,Lawrence Bowers,Tampa,1973-02-17
+484,female,David Hopp,Omaha,1955-09-24
+485,male,John Chaffin,Gandy,1940-09-17
+486,male,James Page,Pittsburgh,1996-06-29
+487,female,William Blackwell,Milford,1992-08-15
+488,female,Benjamin Calhoun,Bay City,1953-08-01
+489,female,Scott Smith,Milwaukee,1998-04-12
+490,female,Theodore Greer,Raleigh,1970-10-03
+491,female,Michael Freed,Vidalia,1938-11-25
+492,female,Don Thompson,Miami,1960-07-08
+493,male,Paul Coyne,Sykesville,1980-07-13
+494,male,Wendy Wilson,Southfield,1939-09-22
+495,male,Scott Parker,Greenville,1944-02-23
+496,female,Eldridge Chavez,Bear Lake,1971-02-23
+497,male,John Anderson,Brownsville,1980-11-13
+498,male,Jack Escalante,Mansfield,1954-05-20
+499,female,Billy Monaghan,Chula Vista,1956-12-12
+500,female,Ronnie Shortridge,Bethpage,1963-05-04
+501,male,Matthew Tibbs,Danbury,1961-01-24
+502,male,Stan Gutierrez,Bryn Mawr,1990-05-19
+503,female,Jerry Colon,Fremont,2000-06-04
+504,female,Judy Norman,Jacksonville,2000-07-16
+505,male,Michelle Hood,Worcester,1972-10-02
+506,female,John Chadwick,West Chester,1999-09-19
+507,male,Leigh Griffin,Monterey,1960-09-10
+508,male,Rodolfo McDowell,Cambridge,1938-04-19
+509,female,Julie Olivar,Tulsa,1939-08-16
+510,female,Manuel Johnson,New York,1990-04-19
+511,female,Natasha Dozier,Plano,1949-11-18
+512,female,James Fairchild,Arlington,1999-12-21
+513,male,James Cannon,Welch,1948-07-03
+514,female,Michele Nelson,Clare,1990-04-15
+515,male,Paula Reid,Kirkwood,1992-07-22
+516,male,Caridad Fulton,Clyde Park,1980-01-06
+517,male,Jesse Hannan,Riverside,1996-01-18
+518,male,Kristie Noland,Charlotte,1996-12-04
+519,female,Robert Merritt,Tempe,1945-04-15
+520,male,Avis Walters,Jupiter,1947-04-22
+521,female,Aida Applegate,Red Bank,1996-08-03
+522,male,Brenda Sain,Los Angeles,1973-12-17
+523,female,Richard Oates,Philadelphia,1971-04-28
+524,female,Tonya Harris,Bloomingdale,1961-03-05
+525,female,Nicole Simmons,Baltimore,1995-05-28
+526,male,Diana Tsan,Lorain,1975-12-17
+527,female,Marie Atkins,Atwood,1974-04-14
+528,female,George Patterson,Greenwood,1937-04-25
+529,male,Lin Durant,York,1974-12-11
+530,female,Danny Dehner,Waynesboro,1965-12-02
+531,female,Georgia Norden,Menlo Park,1964-02-22
+532,female,Lisa Brown,West Palm Beach,1966-06-14
+533,male,Joe Cardenas,Greensboro,1994-05-06
+534,female,John Breslin,Houston,1987-02-09
+535,male,Kelley Remley,New York,1973-01-29
+536,female,Connie Webster,Westborough,1976-10-23
+537,male,Young Kennedy,Rocklin,1968-04-09
+538,female,Jane Barnhart,Huntsville,1971-04-30
+539,male,Whitney Gabor,Columbus,1980-03-17
+540,female,Eduardo Marshall,Middletown,1965-12-07
+541,female,Albert Fletcher,Honea Path,1951-02-15
+542,male,Elbert Whitney,Metairie,1934-09-28
+543,male,Juana Clayton,New York,1987-09-22
+544,female,Dwayne Kinley,Tempe,1989-01-05
+545,male,Eusebio Hazelton,Garden City,1962-08-24
+546,male,Kathy Miller,Norfolk,1959-05-05
+547,male,Thomas Kelly,Miami,1979-11-13
+548,male,John Lash,Grand Rapids,1951-03-28
+549,male,Selina Langford,New York,1974-03-25
+550,female,Betty Sanchez,Beaverton,1997-10-31
+551,male,Roger Graham,Philadelphia,2000-08-28
+552,female,Cathleen Quintanilla,Biddeford,1974-03-28
+553,female,Austin Wilburn,Cottonwood,1965-07-22
+554,female,Nancy Hager,Paradise Valley,1991-09-13
+555,female,Justin Lindsay,Elmo,1966-07-22
+556,female,Patricia Madison,Greenville,1970-02-06
+557,female,Sylvester Hovis,Chicago,1972-04-20
+558,male,James Shackelford,Lincoln,1996-11-25
+559,male,Steven Park,Riverside,1958-05-02
+560,male,Annette Stuckey,Syracuse,1984-06-18
+561,male,Sophie Worrell,Santa Monica,1940-10-19
+562,female,Kenneth Gentry,Longview,1953-02-21
+563,male,Alfredo Reyes,Watauga,1938-10-21
+564,male,Nolan Shelley,Southfield,1974-06-17
+565,male,Rosa Reza,Chicago,1996-06-09
+566,female,Luz Holmes,Buffalo,1943-02-06
+567,female,Jeanette Casper,Thomasville,1935-06-23
+568,male,Margarita Kelly,Anaheim,1956-05-21
+569,female,James Lebron,Greenwood,1950-07-31
+570,female,Betty Xiong,New York,1972-01-22
+571,female,Michelle Medlin,Minneapolis,1961-09-15
+572,female,Megan Strader,Dayton,1939-10-30
+573,female,Judy Johnson,San Francisco,1957-09-06
+574,female,Richard Burkett,Huntsville,1968-07-14
+575,female,Joseph Watson,Parma,2001-03-31
+576,female,Sheila Franklin,Summum,1980-04-12
+577,male,Lula Stamper,Meriden,1983-10-11
+578,female,Carrie Lenard,Philadelphia,1968-06-05
+579,female,Doyle Kott,Washington,1940-05-26
+580,male,Clinton Bingham,Denver,1943-03-10
+581,male,Don Porterfield,Fayetteville,1936-07-30
+582,female,Douglas Morgan,Salt Lake City,1990-08-13
+583,male,Roger Hurst,Mattoon,1943-02-02
+584,male,Sheryl Mazzella,Seattle,1998-01-12
+585,male,Glenn Ecker,Buffalo Grove,1941-10-31
+586,male,George Vaughn,Hiseville,1944-05-09
+587,male,Sandra Adair,New Haven,1969-04-29
+588,male,Martha Pettyjohn,San Diego,1973-08-06
+589,male,William Olson,Manilla,1950-11-23
+590,male,Stephanie Nguyen,San Gabriel,1957-04-10
+591,female,Johnson Hamer,Los Angeles,1956-10-16
+592,male,Elias Sanchez,New Brunswick,1959-03-09
+593,male,Jack Schulman,Rockland,1960-08-07
+594,male,Mamie Wooten,New Castle,1940-05-11
+595,male,Nick Cruz,Goshen,1984-09-10
+596,female,Matthew Labbe,Tampa,1959-04-26
+597,male,Richard Dobson,Rochelle Park,1969-12-24
+598,male,Samantha Doner,Morristown,2000-06-09
+599,male,Dora Smith,Pinellas,1991-05-24
+600,male,Jordan Taylor,Rocky Mount,1958-02-01
+601,female,Joyce Hayes,Detroit,1995-01-15
+602,male,Richard Parker,Ida,1948-01-19
+603,male,Sylvester Isaacs,Fairbanks,1980-04-05
+604,female,Catherine Gilliam,Natchitoches,1936-11-20
+605,male,Timothy Frawley,Norwood,1948-12-18
+606,female,Daniel Davis,Tulsa,1963-11-26
+607,male,Lee Stoffel,Cincinnati,1952-09-16
+608,male,Cathy Odell,Tacoma,1998-07-14
+609,male,Linda Sullivan,Waianae,1987-11-11
+610,male,Jeremiah Maas,Hyattsville,1945-05-09
+611,male,Brenda Hauser,Denver,1948-04-21
+612,male,David Hoffman,Las Cruces,1964-06-29
+613,male,Jaclyn Stallard,Pittsburgh,1973-03-23
+614,female,Tina Willcox,Spotswood,1938-05-31
+615,male,Rick Hawkins,Bettendorf,1986-02-09
+616,male,Leo Young,Plano,1974-02-28
+617,female,Robert Endo,Mansfield,1956-07-22
+618,female,Albert Hall,Brentwood,1935-06-29
+619,female,Lynn Mott,Edison,1940-01-07
+620,male,Elisa White,Pine Bluff,1960-05-31
+621,male,Pablo Corning,Knob Noster,1995-03-14
+622,female,Mary Cooper,South Burlington,1958-05-03
+623,male,Sylvester Vega,Vernon,1965-08-17
+624,male,Marcus Dotson,West Newton,1990-10-11
+625,female,Kenneth McCauley,Worthington,1945-07-07
+626,male,Mary Monson,Sacramento,1945-07-09
+627,female,Carey Moran,Fargo,1952-01-22
+628,male,John Alvarado,Salinas,1949-10-16
+629,female,Joan Willis,Hickory,1941-01-26
+630,male,Kenneth Gaines,Montclair,1957-12-15
+631,female,Robert Chambers,Santa Rosa,1938-03-13
+632,male,Steven Pigford,Salt Lake City,1962-12-17
+633,female,Barbara Hall,Fort Smith,1995-09-14
+634,male,Robert Schrock,Roswell,1951-05-10
+635,female,Johnny Moles,Irvine,1954-02-26
+636,female,Lauren Tyler,Philadelphia,1967-10-15
+637,male,Bert Joseph,Silverdale,1974-06-07
+638,male,Adam Watkins,Dallas,1995-09-12
+639,female,Gertrude Ebert,Mason City,1948-06-17
+640,female,Leroy Chambers,Memphis,1934-11-27
+641,male,Elizabeth Smith,Tempe,1979-08-14
+642,female,Salvador Anderson,Kansas City,1935-03-20
+643,female,Constance Young,Ocala,1975-02-27
+644,female,Cathryn Barlow,Eau Claire,1965-10-30
+645,female,Larry Brooks,Houston,1993-01-31
+646,male,Margaret Wafford,New York,1997-11-14
+647,male,John Satchell,Phoenix,1985-12-18
+648,female,Sharon Woods,Charlottesville,1998-10-01
+649,female,Viola Wright,Rego Park Queens,1946-01-21
+650,female,Bessie Bayne,San Francisco,1974-01-24
+651,male,Claire Gaither,Riesel,1958-01-31
+652,male,Clarence Myers,Urbandale,1993-06-13
+653,female,Harvey Hofer,Seattle,1973-01-12
+654,female,Angel Wright,Dyer,1951-11-05
+655,female,Frank Phelps,Bloomington,1972-07-21
+656,male,Katrina Cruz,Vero Beach,2000-06-01
+657,female,Suzie Leto,Hanover,1959-04-16
+658,male,Trina Collier,Seattle,1964-04-15
+659,male,Paul Burton,Saint Paul,1979-07-30
+660,female,Mary Reeves,Worcester,1968-01-03
+661,female,Brian Moreno,New York,1996-06-11
+662,female,Doyle Dill,Plainville,1961-03-03
+663,male,John Bates,Newark,1953-03-13
+664,female,Helen Chapman,Onalaska,1942-11-04
+665,male,Xiomara Marquez,Rochester,1995-09-12
+666,male,Pauline Lewis,Louisville,1973-09-17
+667,male,Jack Wallace,Dorchester,1988-06-05
+668,female,James Morgan,Fair Oaks,1990-03-29
+669,female,Judy Erickson,Pittsburgh,1968-07-19
+670,male,Elizabeth Mahood,Burr Ridge,2000-11-28
+671,male,Ann Reynolds,Arlington Heights,1965-04-24
+672,male,Robert Beck,Palco,1973-06-25
+673,female,Claudine Kephart,Double Bayou,1958-06-28
+674,male,Stella Johnson,Detroit,1953-08-03
+675,female,Tristan Marshall,Victoria,1979-08-30
+676,female,Barbara Rouse,Pennsboro,1975-01-28
+677,male,Gary Hoffman,Tallahassee,1947-03-29
+678,female,Ruben Hernandez,Mayfield Heights,1982-10-30
+679,female,Andria Loya,Jackson,1990-12-19
+680,female,William Magoon,Northridge,1967-03-06
+681,female,Blair Boone,Newark,1998-02-14
+682,female,Michael Allen,Indianapolis,1949-02-07
+683,female,Larry Marks,Tampa,1978-09-26
+684,male,Stephanie Gates,Houston,1961-02-08
+685,male,Shannon Sullivan,Grand Rapids,1975-12-30
+686,male,Michael Garcia,Vicco,1958-12-14
+687,female,Ronald Blazek,Milwaukee,1944-11-21
+688,male,William Massey,Waynesboro,1958-07-12
+689,female,Margaret Austin,Birmingham,1995-05-31
+690,female,Paul Bernhardt,Quincy,1992-01-06
+691,male,Charles Spencer,Saint Paul,1998-02-06
+692,male,Kathryn Queen,Hampton,1952-06-17
+693,female,Kristen Thomson,Grass Valley,1947-09-06
+694,male,Judy Hamilton,Jackson,1945-05-01
+695,male,Jerry Pedersen,San Carlos,1954-09-20
+696,female,Chrystal Mendoza,Austin,1942-08-03
+697,male,Mary Freeze,Los Angeles,1996-07-02
+698,female,Christine Hale,Humboldt,1937-01-13
+699,male,Yasmin Miller,Pittsburgh,1979-11-01
+700,female,Mary Blevins,Mcallen,1988-01-31
+701,male,Annette Brown,Terre Haute,1981-05-13
+702,female,Cecelia Orlando,Marissa,1935-04-02
+703,male,Alica Nasser,Plantation,1990-02-05
+704,female,Sherri Howland,Dover,1991-04-11
+705,female,Jeff Robinson,San Diego,1989-06-11
+706,male,Stephanie Baeza,Rochelle Park,1957-04-01
+707,male,Charles Horan,Hickory Hills,1976-06-10
+708,female,Jerry Moultrie,Parsippany,1935-08-05
+709,female,Glen Brungardt,Allentown,1993-03-28
+710,male,Stanton Hood,Tucker,1937-12-01
+711,female,Charlene Pruitt,Mcclung,1998-04-08
+712,male,John Mueller,New Haven,1966-09-22
+713,female,Christopher Lowery,Orange,1988-09-03
+714,male,Deanna Carroll,Los Angeles,1972-12-12
+715,female,Richard King,Greenwich,1979-09-30
+716,female,Richard Youngblood,Detroit,2001-04-27
+717,female,Sandra Childress,Washington,1996-09-14
+718,male,Jennifer Douglas,Montgomery,1948-04-16
+719,male,Joe Beaty,Gilroy,1956-03-28
+720,female,Lynda Shephard,Huntsville,1964-12-03
+721,female,Tyler Jennings,Las Vegas,1949-02-20
+722,female,Kenneth Constant,Los Angeles,1958-05-02
+723,male,Chris Allen,Statesboro,1943-04-10
+724,male,Robert Earnhardt,Orlando,1985-11-10
+725,male,Raylene Reel,Boston,1975-04-18
+726,male,Wayne Emmons,Hoffman,1988-07-10
+727,male,Flora Cardenas,Cleveland,1965-05-07
+728,female,Steven Houston,Two Buttes,1942-10-31
+729,male,Paul Campbell,Kirkland,1999-01-05
+730,female,Enrique Kirk,Yonkers,1939-06-11
+731,male,Diane Smith,Los Angeles,1974-12-09
+732,female,Chris Shaner,Nashville,1980-11-04
+733,male,Laurence Petersen,Bowling Green,1974-12-03
+734,female,Lewis Stewart,Lexington,1952-01-27
+735,female,Michael Andersen,Houston,1984-05-13
+736,male,Floyd Stevens,Bolton,1984-02-04
+737,male,Michael Roemer,Sugar Land,1950-12-13
+738,male,Keith Saunders,Garfield Heights,1960-07-11
+739,female,Edgar Garmon,Jacksonville,1981-04-01
+740,female,Samuel Mullins,Traverse City,1936-05-09
+741,female,Byron Derr,Xenia,1940-02-23
+742,female,Leonard Hruska,Burbank,1950-03-15
+743,female,Michael Richardson,San Diego,1948-10-12
+744,female,Kristi Cogdill,Portland,1976-07-10
+745,female,Nathan Powers,San Diego,1961-08-14
+746,male,Joshua Deegan,Port Huron,1963-04-29
+747,female,Jack Griffin,Detroit,1986-10-18
+748,female,Tara Bakker,Fort Payne,1955-10-10
+749,female,Sara Williams,Martinsville,1936-05-17
+750,male,Mark Johnson,Saint Louis,2001-03-26
+751,female,Oscar James,Sacramento,1976-05-16
+752,female,David Guerro,Mattoon,1977-05-22
+753,female,Lacy Molina,San Francisco,1959-09-22
+754,female,Vicki Wheeler,Greensboro,1966-12-30
+755,male,Brenda Crosslin,Amble,1990-11-07
+756,female,Elizabeth Jones,Lexington,1957-03-24
+757,male,Leslie Bing,Garfield Heights,1956-12-09
+758,male,Dora Pierce,Virginia Beach,1960-05-26
+759,male,Nancy Mercado,Upper Arlington,1983-05-01
+760,male,John Lopez,Eagleville,1993-06-23
+761,female,William Byers,Hartford,1990-02-07
+762,female,Victoria Escobar,Dallas,1975-07-06
+763,female,Andrea Wood,Fort Myers,1980-05-16
+764,male,Melissa Taylor,Gibsonia,1991-10-10
+765,male,George Peoples,Jacksonville,1954-06-24
+766,female,Diane Ramos,Euless,1968-06-27
+767,female,Daniel Edwards,Elkin,1963-03-09
+768,male,Cathy Blackman,San Francisco,1996-01-30
+769,male,Marshall McLean,Tempe,1991-02-18
+770,male,John Terrill,Fort Valley,1945-06-17
+771,female,James Surratt,Miami,1991-03-27
+772,female,Oscar Janssen,San Diego,1971-05-11
+773,male,Elizabeth Rivers,Scottsdale,1937-01-24
+774,male,Andre Daniel,Philadelphia,1978-07-17
+775,female,Luke Darlington,New York,1985-07-21
+776,male,Roberto Bolden,Lake Charles,1956-11-04
+777,female,Gwen Dupuis,Victoria,1938-03-21
+778,female,Sandra Griffin,San Angelo,1966-07-15
+779,female,Luis Edwards,River Falls,1988-04-18
+780,female,Chelsea Garcia,Los Angeles,1991-12-12
+781,male,Morris Peterson,Roanoke,1983-09-11
+782,male,David Jones,Saint Johns,1966-05-23
+783,male,Annetta Ortiz,Fort Washington,1957-09-05
+784,male,Jessie Williams,Stamford,1989-09-21
+785,male,Alex Moreno,Saint Cloud,1935-03-21
+786,female,Donald Perez,Fort Wayne,1960-12-24
+787,female,Stephanie Martino,Buford,1995-04-09
+788,male,Terri Phipps,Southfield,1936-08-28
+789,male,Cherryl Galli,Dublin,1975-08-22
+790,male,John Holman,Longview,1956-06-18
+791,male,Regina Fay,Greenville,1963-10-19
+792,male,Michael Young,Birmingham,1937-05-12
+793,female,Margaret Cline,Cambridge,1998-04-27
+794,female,William Taulbee,New York,1965-06-04
+795,female,Kelly O'Connor,Evansville,1978-02-25
+796,female,Austin McConnell,San Luis Obispo,1946-06-29
+797,male,Kevin Nicholson,Dallas,1976-04-09
+798,male,Adolfo Andersen,Pittsburgh,1956-06-07
+799,female,Carlita Stamps,Philadelphia,1940-06-24
+800,female,Cara Newman,Pomona,1999-12-01
+801,male,Sherry Green,Albany,1998-12-09
+802,male,Raymond Handley,Seattle,1976-04-09
+803,female,Joshua Dennis,Jesup,1986-05-28
+804,female,Kathleen Leite,Springfield,1978-01-11
+805,female,Joan Smith,New York,1995-01-10
+806,male,Arthur Villalba,Gainesville,1939-10-22
+807,male,Claire Freed,Los Angeles,1954-09-30
+808,male,Ronald Sheffield,New Berlin,1966-07-28
+809,female,Gilbert Dial,Hiawatha,2000-09-30
+810,female,Amy Harrison,Colorado Springs,1977-01-01
+811,male,Wilford Milligan,Reno,1989-04-08
+812,male,Brett Smith,Topeka,1962-08-27
+813,male,Brian Claborn,Pittsburgh,1951-07-17
+814,female,Maria Bullard,Eaton,1971-08-04
+815,female,Ethan Brennan,Paris,1996-07-15
+816,female,Amanda Matteson,Louisville,1961-03-21
+817,female,Robert Welsh,Chambersburg,1968-07-27
+818,female,Louise Routh,Fairbanks,1972-08-06
+819,male,Brandi Samuelson,El Dorado,1935-03-06
+820,male,Thomas Harbison,Worcester,1989-05-29
+821,male,Larry Price,Mousie,1971-12-11
+822,male,James Mays,Dallas,1946-05-05
+823,male,Delicia Malcom,Clarissa,1951-10-10
+824,female,Felix Richardson,Portland,1969-02-28
+825,male,Peter Henderson,Cincinnati,1946-09-24
+826,female,Cody Lewis,Crafton,1989-02-21
+827,male,Robert Cervantes,Winter Garden,1980-07-23
+828,female,Rowena Duke,Columbia,1990-02-11
+829,female,Lane Tanaka,Reston,2000-07-30
+830,female,Wanda Green,San Diego,1984-09-13
+831,male,Steven Koller,Toledo,1936-01-02
+832,female,Eddie Manrique,San Diego,1941-07-12
+833,female,Tracey Patterson,Nehalem,1943-06-28
+834,female,Victor Webber,Dublin,1993-08-05
+835,male,John Briggs,Chicago,1973-01-14
+836,male,Charles Berg,Towson,1994-12-27
+837,female,Daniel Cole,Seattle,1954-02-11
+838,female,Michael Worsham,Louisville,1940-06-03
+839,male,Amanda Cavanaugh,South Gate,1990-11-26
+840,female,Christian White,Providence,1994-09-29
+841,male,Carl Garcia,New York,1999-03-20
+842,male,Rose Cruz,Dayton,1967-10-14
+843,female,Delia Lane,Mountain View,1938-11-03
+844,female,Mabel Mueller,Peculiar,1977-04-17
+845,female,Agnes Thomas,Cambridge,1974-01-24
+846,male,Patricia Shumake,Anniston,2000-06-16
+847,male,Wesley Hinkle,Brattleboro,1980-01-01
+848,female,Ralph William,Houston,1939-10-22
+849,male,Ruth Bingham,Rome,1975-08-31
+850,female,Charles Marshall,Philadelphia,1994-05-05
+851,female,Keisha Baker,Allen,1957-11-20
+852,female,Travis Boyd,Pontiac,1964-12-16
+853,female,Mark Strohl,Philadelphia,1991-01-11
+854,female,Judith Ramos,Little Rock,1954-02-12
+855,male,Antoine Baker,Gilbert,1978-12-08
+856,male,Lewis Hawkins,Savage,1956-07-18
+857,female,Jesse Steele,Springfield,1988-10-29
+858,female,Roy Hansen,Seymour,1960-11-15
+859,female,Gregory Cloyd,Birdsboro,1979-06-28
+860,male,Sherri Haile,Rochester,1964-06-09
+861,male,Leona Hurst,Henryville,1988-05-18
+862,male,Mollie Branch,Wheeling,1953-11-27
+863,male,Larry Elmer,Macon,1998-01-11
+864,female,Evelyn Bryson,Cary,1951-09-23
+865,male,Gigi Cuyler,Beverly Hills,1974-10-28
+866,male,Dina Vath,Bedford,1961-04-04
+867,male,Margy Shoaf,Circleville,2001-03-26
+868,male,William Weller,Arlington,1999-09-04
+869,female,Rose Massey,Pine Bluff,1996-02-14
+870,female,Ruby Kendrick,Marietta,1961-03-04
+871,female,Judith Jackman,Providence,1967-03-15
+872,male,John Huffman,Deerfield,2000-02-04
+873,female,Chad Johnson,San Antonio,1989-01-17
+874,male,Brian Canada,Chicago,1991-04-18
+875,male,Dean Cruz,Monticello,1954-03-27
+876,male,Richard Delong,Chicago,1984-01-11
+877,male,Juan Jenkins,Charleston,1958-10-30
+878,female,Rhonda Shultz,New York,1969-08-09
+879,female,Robert Staton,Los Angeles,1958-01-03
+880,female,Steven Sargent,Cambridge,1975-10-14
+881,male,Tyson Gutierrez,West Allis,1937-03-07
+882,male,Justin Ford,Tampa,1949-06-14
+883,male,Tina Tyler,Cleveland,1997-04-19
+884,male,Stephanie Henry,Baltimore,1958-12-03
+885,female,William Mitchell,La Grange (Dutchess),1957-12-10
+886,female,Gwendolyn Lebo,Lansing,1940-11-20
+887,female,Christina Vargas,Livonia,1969-11-19
+888,male,Gladys Hammer,Nashville,1951-08-04
+889,female,Jerry Utter,Chicago,1999-07-09
+890,male,Bonnie Cacho,Cincinnati,1969-10-02
+891,female,Erma Sampson,Houston,1968-08-15
+892,male,Ruth Clayton,Wood Dale,1939-10-17
+893,female,Jackson Ramos,Fresno,1992-01-21
+894,female,Brenda Stark,Los Angeles,1946-06-16
+895,male,Robert Foster,Quincy,1953-01-27
+896,female,John Greene,New York,1940-01-07
+897,male,Violet Sadler,Panama City,1974-02-16
+898,female,Margaret Butler,Vandergrift,1998-06-30
+899,female,Arthur Ladner,Eunice,2001-02-14
+900,male,Justin Kirby,Needham,1964-07-08
+901,female,Mary Holmes,Gilbert,1974-06-02
+902,male,James Hubbard,Saint Louis,1950-01-06
+903,female,Edmond Johnson,Midlothian,1957-06-10
+904,female,Mary Brown,Newport News,1948-03-12
+905,female,Gayle Ridgway,New Smyrna Beach,2000-06-04
+906,female,Lynn Garrison,Decatur,1986-08-26
+907,female,Douglas Smith,Birmingham,1946-03-17
+908,male,Dale Crawford,Lawrence,1955-05-17
+909,female,Sharon Hughes,Kihei,1978-10-11
+910,female,Cristin Sanford,Parsippany,1939-10-09
+911,female,Robert Cruz,Sagamore,1989-12-14
+912,female,Wendy Wilcox,North Highlands,1987-12-17
+913,female,Mary Plott,Westbury,1993-12-10
+914,female,Shirley Moran,Tupelo,1956-04-28
+915,female,Mark Alexander,Fresno,1950-11-11
+916,male,Alexander Vail,Eugene,1987-05-22
+917,female,Glen Goff,Knoxville,1967-07-01
+918,male,James Elliott,Huntsville,1986-09-19
+919,male,Mona Richard,Southfield,1993-01-18
+920,male,Irene Lymon,New York,1946-06-29
+921,female,Robyn White,Sulphur Springs,1937-08-04
+922,male,Wayne Crichton,Arlington Heights,1981-12-29
+923,male,Stephen Hughes,Waukesha,1949-08-18
+924,male,Caroline Dolly,Egg Harbor,1943-08-24
+925,female,George Wilburn,Mile Marker 102,1942-11-13
+926,female,Katrina Brouillard,Kenner,2000-12-04
+927,male,Bernard Barnett,Milton Mills,1940-11-06
+928,female,Andrew O'Neill,Santa Cruz,1959-01-03
+929,male,Lee Ewen,Wallingford,1969-05-16
+930,female,George Gomez,Cocoa,1993-09-22
+931,male,Wanda Reynolds,Carlislerg,1975-01-09
+932,female,Gail Porter,Athens,1990-11-18
+933,male,Margaret Kennedy,San Francisco,1970-07-24
+934,male,Carlos Chrisman,Tacoma,1993-08-15
+935,female,Jennifer Johnson,Grand Rapids,1982-08-03
+936,female,Tomas Hensley,South Plainfield,1939-02-03
+937,female,Dawn Brown,Tucson,1950-12-24
+938,male,Mellissa Garcia,Milwaukee,1948-04-30
+939,female,Teresa Lewis,Rutherford,1937-09-15
+940,female,Martha Berkley,Towson,1987-05-05
+941,male,William Wall,Hellertown,1952-06-06
+942,female,Melissa Dunavant,Walla Walla,1956-01-19
+943,female,Winifred Myers,Gloucester City,1992-10-02
+944,female,Ethel Calkins,Vineland,1956-02-19
+945,male,Marcus Richard,Beckley,1969-09-16
+946,female,Sarah Alcazar,Holley,1943-06-04
+947,male,Margie Slate,Pittston,1974-03-14
+948,male,David Roberts,Los Angeles,1978-10-18
+949,female,Michael Hardy,North St Paul,1969-06-24
+950,female,Donald McAllister,Atlanta,1968-09-08
+951,female,Garland Lay,Stillwater,1937-10-10
+952,female,Lorrie Washington,Columbia,1977-07-09
+953,female,Madeleine Searcy,Peerless,1974-01-18
+954,male,Whitney Kramer,Collegeville,1935-01-31
+955,male,Natalia Pike,Burlington,1993-10-15
+956,male,Carolyn Perry,Houston,1992-11-03
+957,male,Debbie Chandler,Roswell,1994-02-18
+958,male,James Secrist,Jacksonville Beach,1989-07-18
+959,male,David Thompson,Winchester,1984-02-18
+960,male,Franklin Reynolds,Oakland,1976-05-08
+961,female,Louis Woodruff,Clinton,1951-10-07
+962,female,John Sandidge,Bensenville,1952-02-21
+963,male,Jose Cheatwood,Las Vegas,1971-12-22
+964,male,Bernadette Crutchfield,Metairie,1948-04-23
+965,male,Maria Boden,Greenville,1993-08-14
+966,male,Aura Carney,Jordan,1987-04-23
+967,female,Troy Whittaker,Longview,1991-08-30
+968,female,Marjorie Powell,Fort Lauderdale,1938-11-14
+969,female,Margaret Hill,Andrews,1943-08-12
+970,female,John Thompson,Troy,2000-01-01
+971,female,Brenda Busse,Plant City,1989-05-26
+972,male,Kristi Turner,Portland,1989-05-18
+973,male,Mona Degen,Baltimore,1997-11-24
+974,male,Allen Allen,Saint Louis,1991-09-27
+975,female,Pamela Cogdill,Branchburg,1999-06-19
+976,male,Felecia Smith,Waipahu,1940-07-23
+977,male,Jon Dickson,Ennis,1971-03-11
+978,female,Minnie Blackwell,Baton Rouge,1967-05-12
+979,female,Denise Hess,Waynesboro,1976-05-23
+980,female,Sheila Morin,Atlanta,1995-10-08
+981,female,Tyler McClellan,Brownwood,1953-05-27
+982,female,Kenneth Prada,Atlanta,1950-09-09
+983,male,Paul George,Pueblo,1935-08-07
+984,male,Brian Thorn,Midlands,1949-12-07
+985,female,Ronald Crow,Ardmore,1989-07-05
+986,male,Mary Taylor,Houston,1993-02-24
+987,female,Roxanne Wilson,Dallas,2000-01-31
+988,female,Sharon West,Omaha,1950-02-24
+989,female,Trudy Stingley,Fayetteville,1945-10-14
+990,female,Michael Kelley,Montgomery,1976-01-08
+991,male,Christine Childress,Elk Grove Village,1963-11-03
+992,male,Louis Dunlop,Manchester,1957-11-19
+993,female,Mary Harkins,Hueytown,1959-08-08
+994,female,Vicki Kisner,Friday Harbor,1953-04-24
+995,male,Janna Carden,Greensboro,1974-07-28
+996,male,Anthony Miller,Winterville,1979-12-22
+997,male,Erica Scheuerman,Villas,1961-03-03
+998,male,Tommy Lake,Smyrna,1938-08-04
+999,male,Chet Pitts,Shreveport,1935-06-24
+1000,male,Barbara Goodwin,Hillsboro,1976-04-24
+1001,female,Kirk Brooks,Anaheim,1990-07-11
+1002,female,Michele Stone,Norwich,2000-01-26
+1003,female,Harold Strickland,Duluth,1952-10-08
+1004,male,Larry Bradley,Tucker,1969-12-08
+1005,female,Scott Horne,Clifton,1993-05-14
+1006,male,Willie Robinson,Childress,1952-06-21
+1007,female,Loretta Thayer,Arlington Heights,1981-09-04
+1008,male,Diane Herman,Massena,1997-12-07
+1009,female,Ashleigh Lindberg,Roseville,1963-02-13
+1010,female,Gregory Garrett,Fargo,1976-09-20
+1011,male,Robin Grant,Phoenix,1967-01-23
+1012,female,Anthony Hart,Mountain View,1991-06-06
+1013,male,Pricilla Palko,Beverly Hills,1969-04-02
+1014,female,Mary Ryan,Kaunakakai,1944-11-22
+1015,female,Robert Petersen,Marshall,1966-10-29
+1016,male,Luz Little,Worthington,1937-12-27
+1017,male,Robert Smith,Tigard,1963-11-22
+1018,female,Michael Beasley,Worcester,1977-12-04
+1019,male,Carol Gagnon,Beltsville,1975-10-19
+1020,female,Andrew Epperson,Uniontown,1937-04-03
+1021,male,Myron Martin,Jackson,1997-04-30
+1022,male,Harold Palmer,Eau Claire,1955-01-15
+1023,female,Janell Cruz,Hale Center,1963-09-20
+1024,female,Jeffery Thomas,Conway,1950-10-10
+1025,female,Barry Oppenheim,Roanoke,1957-06-18
+1026,female,Samuel Martin,Silver Lake,1990-08-29
+1027,female,Anthony Maxey,Minneapolis,1944-02-07
+1028,male,Roxann Akins,Columbia,2000-11-08
+1029,female,Demetria Soto,New Orleans,1962-10-22
+1030,female,Mary Brown,Newport News,1965-09-16
+1031,male,Karen Springer,Sanford,1945-03-23
+1032,female,Adrianne Carter,Mattoon,1962-02-06
+1033,male,Bertha Love,Paramount,1973-09-26
+1034,female,Joe Post,Orlando,1946-05-02
+1035,male,Donald Strange,Orchards,1975-09-21
+1036,male,Lonnie Mathes,Jensen Beach,1957-08-28
+1037,male,Johnny Faulkner,Cincinnati,1936-03-05
+1038,female,Elise Morey,Orlando,1962-08-04
+1039,male,Erica Orcutt,Southfield,1989-07-16
+1040,female,Loretta Mowrey,Dayton,1981-09-23
+1041,female,Martin Atkins,Baton Rouge,1946-01-10
+1042,male,Patricia Kennamer,Fairfield,1964-08-15
+1043,female,Janet Mease,Jacksonville,1949-06-17
+1044,male,Edward Rossi,Raleigh,1979-04-28
+1045,female,Isabelle Lemen,Dover,1949-06-21
+1046,male,Denise Martel,Groveland,1956-10-19
+1047,female,Diane Gaskins,Gardena,1998-09-25
+1048,male,Stacy Smallwood,West Palm Beach,1949-07-25
+1049,male,David Woods,New York,1994-01-30
+1050,male,Johnnie Larsen,Brimson,1936-09-12
+1051,female,Mary Anderson,Rochester,1962-04-27
+1052,female,Valeria Cruz,Grand Rapids,1958-05-15
+1053,male,William Reyes,Toledo,1955-10-25
+1054,male,Phillip Olsen,Bryan,1953-12-09
+1055,male,Roxana Little,Tigard,1966-11-19
+1056,female,Tessa Pugliese,Milwaukee,1957-11-24
+1057,male,Jerry Rotella,La Puente,1983-06-19
+1058,female,Ignacia Angulo,Dulce,1965-12-13
+1059,male,Danny Scott,Halma,1971-03-09
+1060,female,Larry Menges,Fort Myers,1993-12-29
+1061,male,Betty Klein,Sunnyvale,1938-01-03
+1062,female,Sarah Monico,Burlington,1945-01-04
+1063,female,Frederick Willman,New York,1977-11-26
+1064,female,William Johnson,St George,1984-05-26
+1065,male,Samuel Plummer,Little Rock,1980-12-28
+1066,female,Aaron Worthley,Chesterfield,1991-07-03
+1067,male,Phillip Trujillo,Scottsdale,1936-01-25
+1068,male,James Gracey,Denver,1994-04-29
+1069,male,Eric Daly,Northglenn,1971-12-26
+1070,female,Robert Hill,Champaign,1973-07-26
+1071,female,Jo Salas,Grand Rapids,1980-03-07
+1072,female,Hazel Collum,St Ignatius,1974-12-18
+1073,female,William Pickerel,Coulee City,1991-09-01
+1074,female,Mary Puente,Tacoma,1950-12-29
+1075,female,Bettina Arguelles,Dorset,1974-10-02
+1076,female,Mary Delgado,Wright,1964-11-25
+1077,female,Mauricio Derrick,Pocatello,1958-10-12
+1078,male,Douglas Zamora,Garfield Heights,1976-01-08
+1079,female,Neil McCain,Youngstown,1980-02-29
+1080,female,Kristen Alden,Curlew,1983-04-27
+1081,male,Daniel Gray,Richmond,1982-02-20
+1082,male,Joe Turner,Eau Claire,1958-06-12
+1083,female,Heather Dube,Mansfield,1946-07-14
+1084,male,Terry Kelly,Lenexa,2001-04-14
+1085,male,Roger Callihan,Chilhowee,1983-02-06
+1086,male,Mary Fisher,Washington,1940-08-01
+1087,male,Robert Lerner,Davenport,1984-02-25
+1088,male,Laura Lund,Salt Lake City,1983-05-16
+1089,male,Mary Sizemore,Culver City,1971-10-05
+1090,male,Sharon Devries,Bangor,2000-09-27
+1091,male,Helen Waugh,Lewisville,1945-01-16
+1092,male,Latoyia Beverly,Etna,1945-07-15
+1093,female,Anthony Watts,Grand Island,1992-12-25
+1094,male,Javier Huff,Louisville,1997-10-24
+1095,female,Mike Honda,Denham Springs,1964-04-29
+1096,male,Margaret Reif,Brooklyn,1944-11-28
+1097,male,Sara Sigler,Sacramento,1951-02-23
+1098,female,William Cook,Phoenix,1997-12-01
+1099,male,David Santiago,Pittsburgh,1991-04-21
+1100,male,Sandra Newsom,Texas City,1986-10-07
+1101,male,Robert Perry,Pensacola,1991-09-29
+1102,female,Cory Bueno,Little Rock,1984-05-25
+1103,female,Susan Marshall,South Boston,1999-06-03
+1104,male,Lynette Obrien,Bridgeville,1977-12-01
+1105,male,John Malcolm,Jacksonville,1935-11-02
+1106,female,Brian Taylor,Arlington Heights,1938-12-22
+1107,male,Jeffrey Gurule,Tukwila,1938-08-03
+1108,female,Eugene Davis,Loveland,1975-05-10
+1109,female,Steven Matherly,Lombard,1990-11-11
+1110,female,Roy Howard,Kansas City,1976-09-17
+1111,female,Elliot Nguyen,Walnut Creek,1984-09-30
+1112,female,Felix Ripple,Bluefield,1978-03-19
+1113,female,Dianne Fox,Lexington,1990-11-14
+1114,female,William Rake,Walters,1961-01-23
+1115,male,Darlene Gravley,Houston,1973-07-03
+1116,female,Lawrence Cheever,Pine Bluff,1999-10-15
+1117,male,Bernard Shaw,Nashua,1990-02-09
+1118,female,Michelle Williams,Yonkers,1960-08-13
+1119,male,Candace Johnson,Morristown,1977-07-07
+1120,female,Brad Scott,Piketon,1992-03-24
+1121,male,Elsa Vallo,Wheeling,1941-02-26
+1122,female,Richard Cross,Grapevine,1996-07-20
+1123,male,Bailey Rickards,Harrisburg,1990-08-02
+1124,male,Monte Salinas,New York,1970-05-26
+1125,male,Richard Houck,Reeseville,1957-04-25
+1126,female,Marlena Harness,Denton,1968-04-10
+1127,male,Christina Forrest,Lewisburg (Mason ),1987-02-26
+1128,male,Richard Wilson,Spencer,1972-06-19
+1129,female,Michael Davis,Plano,1987-10-02
+1130,male,Zana Dennis,Minto,1938-09-02
+1131,male,Ruth Taylor,Garden City,1974-11-12
+1132,female,Carol Hornsby,San Diego,1974-01-14
+1133,male,Elizabeth King,Brooklyn,1939-04-05
+1134,female,Nancy Hart,Irvine,1950-06-01
+1135,male,Holly Williams,Stuart,1982-03-30
+1136,male,Robert Redinger,Pittsburgh,1939-02-02
+1137,male,Jane Green,Winter Haven,1998-05-11
+1138,male,Audrie Enriquez,Baltimore,1952-01-05
+1139,male,James Matter,Fort Worth,1938-09-10
+1140,female,Leon Delaney,Mesquite,1946-06-29
+1141,male,Justin Eaton,San Ramon,1989-04-16
+1142,female,Bruce Bennett,Hartwell,1937-02-10
+1143,female,Vickie Price,Chicago,1979-07-28
+1144,male,Esther Dickey,Amory,1955-06-23
+1145,male,Joyce Barrera,San Antonio,1977-08-27
+1146,female,Michael Hernandez,Ventura,1935-08-21
+1147,female,Modesta Saxon,Littleton,1969-07-18
+1148,male,William McDaniel,Whipholt,1974-07-15
+1149,male,Leticia Fox,Houston,1965-03-16
+1150,female,Debbie Coyle,Los Angeles,1939-06-18
+1151,female,Marlon Bravo,New York,1947-03-05
+1152,female,Joshua Kelley,San Antonio,1955-11-23
+1153,male,Shirley Carder,New York,1940-05-01
+1154,female,Mark Rojas,South Boston,1965-04-12
+1155,female,Terry Haliburton,Tucker,1999-03-01
+1156,male,Bradley Terry,Oak Brook,1956-10-08
+1157,male,Mary Eaton,Burdett,1944-03-10
+1158,female,Lance Dorr,Northbrook,1993-07-25
+1159,female,John Edgar,Detroit,1998-11-29
+1160,female,Jeanette Parker,Ridgeland,1971-04-25
+1161,female,Ruth Larsen,Billings,1976-01-18
+1162,female,Luis Miller,Nashville,1983-10-31
+1163,female,Karen Hanson,Detroit,1942-12-29
+1164,female,Michael Vasser,San Diego,1955-08-16
+1165,female,Kelly Hairston,Bettendorf,1969-09-26
+1166,female,Peggy Fike,San Bruno,1940-05-20
+1167,female,Curtis Hise,Dallas,1968-05-17
+1168,male,Vincent Thompson,Miami,1991-11-05
+1169,female,Eric Elmore,Olney,1945-01-23
+1170,male,Ray Burris,Cincinnati,1943-03-01
+1171,female,Dennis Thibault,Phoenix,1953-01-07
+1172,male,Andrea Mason,St Joseph,1999-07-08
+1173,male,Roy Michaud,Riverside,1956-05-09
+1174,female,Demetra Wiseman,Irvine,1957-12-16
+1175,male,Richard Chavez,Louisville,1953-08-10
+1176,male,Lee Carter,San Francisco,1972-03-23
+1177,female,David Walker,Salina,1994-09-10
+1178,female,Angela Tripp,Atlanta,1984-05-07
+1179,male,Frank Malave,New York,1940-08-01
+1180,female,Eileen Gonzales,Toledo,1974-09-21
+1181,female,Tatiana Sweet,Tukwila,1993-11-04
+1182,female,Derek Leslie,Boise,1996-05-20
+1183,female,Edmond Sullivan,Anaheim,1983-12-21
+1184,male,Maria Scott,Charlestown,1953-12-10
+1185,male,Barry Gomez,Los Angeles,1955-11-07
+1186,male,Bridget Boggs,Eureka,1972-11-08
+1187,male,David Keeler,Las Vegas,1976-03-21
+1188,female,Britni Lopes,Berry,1941-09-09
+1189,male,Clay Martin,Minneapolis,2000-06-16
+1190,female,Lester Sorensen,Kansas City,1950-05-08
+1191,female,Kristine Faith,Arlington Heights,1988-03-31
+1192,male,Sheila Vanover,Jersey City,1964-02-11
+1193,male,Gabriel Muniz,Baltimore,1998-03-13
+1194,male,Jonathan Wolcott,San Francisco,1961-05-06
+1195,female,Candi Williams,Cambridge,1948-09-14
+1196,male,Earl Baxter,Washington,1941-02-08
+1197,female,Ronald George,Lake Charles,1964-07-20
+1198,female,Theodore Bozeman,Wichita,1971-07-09
+1199,male,Roy Dominguez,Southfield,1987-12-06
+1200,female,Valentin Sipes,Wood Dale,1996-06-22
+1201,male,Robert Janes,Zanesville,1946-06-15
+1202,male,Curtis Woods,San Francisco,1990-03-04
+1203,male,Stephanie Hagan,Miami,1967-10-28
+1204,male,Meri Gordon,Mansfield,1965-12-08
+1205,male,Daniel Coffin,Camden,1957-04-06
+1206,male,Harold Layden,Dunkirk,1956-01-14
+1207,female,David Flores,Gresham,1996-06-02
+1208,female,Patricia Baxter,South Fork,1986-04-04
+1209,female,Shawn Grace,Humble,1966-01-16
+1210,male,David Banks,Albany,1957-03-06
+1211,female,Mac Pagan,Mcintosh,1938-07-27
+1212,female,Reynalda Villanueva,Omro,1964-11-16
+1213,female,Cynthia Lebeau,Van Horne,1986-09-17
+1214,female,Mary Wong,Macon,1989-04-07
+1215,female,Martha Chancey,Ridgeland,1941-03-03
+1216,male,Kathy Longo,Miami,1937-05-01
+1217,male,Steven Deluca,Reno,1993-12-15
+1218,male,Robert Lovato,Jersey City,1938-08-16
+1219,female,Heather Marshall,Wayne,1958-07-11
+1220,female,Qiana Kruger,Midland,1994-11-19
+1221,male,Nancy Moseley,San Juan Capistrano,1979-06-26
+1222,female,Kim Sturgis,Honolulu,1940-10-17
+1223,female,Tracey Morales,Riverside,1989-08-17
+1224,female,Maryann Durbin,Austin,1942-06-30
+1225,male,Joseph Cahill,Houston,1963-05-20
+1226,female,Diana Robinson,Huntingdon,1938-02-03
+1227,male,Tiffany Looney,Gardendale,1975-01-11
+1228,female,Donald Jefcoat,Grand Island,1972-01-09
+1229,female,Mary Miller,Duluth,1961-10-19
+1230,female,Linda Wright,Jacksonville,1958-04-17
+1231,female,Charles Keeney,Long Beach,1935-11-08
+1232,female,Paul Watkins,Menasha,1972-03-08
+1233,male,Dina Murray,Fort Washington,1942-09-28
+1234,male,Samuel Owens,Sacramento,1976-11-10
+1235,male,Yvonne Barraza,Jackson,1982-11-08
+1236,female,Giuseppe Barksdale,Wilmington,1943-08-19
+1237,female,Paul Harman,Stockton,1991-04-06
+1238,male,Dino Parson,Salt Lake City,1999-09-03
+1239,female,Hiram Labarre,Goodlettsville,1982-06-25
+1240,female,Kathryn Jewell,Manchester,1948-11-13
+1241,male,Kristina Cummings,Gulf Breeze,1977-09-03
+1242,female,Carmen Masters,Pittsburgh,1956-10-29
+1243,female,Alan Gray,Youngsville,1959-08-03
+1244,male,Ed Lobo,Fresno,2000-05-31
+1245,male,Peter Avila,Evansville,1976-10-30
+1246,female,Richard Chavez,Chicago,1950-02-09
+1247,male,Phyllis Watson,Coleridge,1970-02-27
+1248,male,Birdie Wyche,Memphis,1935-06-26
+1249,male,Beverly Dasilva,Cosmos,1949-02-02
+1250,female,Rochelle Brown,Oklahoma City,1984-07-12
+1251,female,Lela Thornell,Coeur D Alene,1969-06-02
+1252,male,Domingo Edwards,Plano,1974-02-09
+1253,male,Thomas Wimbley,Pierre,1987-10-12
+1254,male,Janice Gantt,Portland,1956-02-29
+1255,female,Chandra Madera,North Augusta,2000-11-19
+1256,female,Esther Williams,Brookfield,1966-10-19
+1257,female,Melissa Davison,Gadsden,1981-02-25
+1258,female,Cora Kuzma,Butler,1991-06-22
+1259,female,Rob Cleary,Lake Charles,1961-10-29
+1260,female,Arletha Parker,Wheeling,1967-01-03
+1261,female,Ron Juliano,Knoxville,1982-02-27
+1262,female,Dorothy Gilson,Syracuse,1986-08-31
+1263,female,Lisa Welch,Denver,1944-09-30
+1264,female,Donna Turnbull,Farragut,1990-02-28
+1265,male,Sarah McCool,Pensacola,1993-01-24
+1266,male,Melvin McDaniel,Los Angeles,1944-07-27
+1267,male,Jimmy Mullins,Macy,1943-08-11
+1268,female,Diana Romero,Washington,1953-02-22
+1269,female,Wayne Stewart,Hagerstown,1951-05-13
+1270,female,Karen Warren,Baton Rouge,1989-01-05
+1271,male,Tracy Love,Sacramento,1995-12-22
+1272,female,Lawrence Laney,Dallas,1955-02-22
+1273,male,Michael Nellis,Reno,1999-10-04
+1274,female,Lindsay Marquez,Sussex,1944-08-18
+1275,female,Nicholas Nunn,Paris,1980-12-24
+1276,female,Eugenia Artman,Peetz,1973-11-30
+1277,female,Jane Barnett,New York,1990-05-22
+1278,female,Olga Vo,Shawnee,1985-05-08
+1279,male,Jose Brewer,Creston,1961-06-25
+1280,male,Alice Ros,Dundalk,1938-01-02
+1281,male,Bruce Odom,Waltham,1956-10-12
+1282,male,Virginia Dotson,O Fallon,1961-02-02
+1283,male,Doris Christenson,Garden City,1935-09-22
+1284,female,Charles Tucker,San Jose,1967-03-30
+1285,male,Joelle Stubblefield,Chicago,1939-01-17
+1286,male,Dagmar Leclerc,Cincinnati,1970-01-20
+1287,female,Kathleen Harvey,Dayton,1935-12-29
+1288,male,Steven Powell,Dallas,1999-07-11
+1289,female,Taylor Kapp,Waukesha,1976-06-22
+1290,female,Elmer Velez,Seattle,1944-08-13
+1291,female,John Cruz,Las Vegas,1987-12-11
+1292,female,Mary Yost,Tyler,2000-05-21
+1293,male,Pamela Johnson,Fremont,2000-06-14
+1294,female,Kyle Gonzales,Phoenix,1970-09-10
+1295,female,Patricia Shubert,Houston,1975-11-28
+1296,female,Lynette Paulsen,Longview,1950-06-12
+1297,female,Patrice Storey,Albany,1981-03-22
+1298,male,John Buckner,Jackson,1990-05-21
+1299,female,Joshua Koerner,Dallas,1981-11-09
+1300,male,Randall Gustafson,Lexington,1958-12-04
+1301,male,Carolyn Brown,Saint Louis,1944-05-13
+1302,female,Francis Hollifield,East Dundee,1959-12-07
+1303,male,Katherine Ryman,Austin,1947-09-21
+1304,male,Sherri Rodriguez,Houston,1989-06-25
+1305,female,Dan Moy,Bell Gardens,1979-03-19
+1306,male,Christopher Harr,Salt Lake City,1953-12-17
+1307,male,Thanh Misner,Atlanta,1961-11-29
+1308,male,Dorothy Jones,Bluefield,1957-06-10
+1309,female,Elizabeth Ortiz,Coffeeville,1966-04-06
+1310,male,Dave Petterson,New York,1941-02-07
+1311,female,Daniel Stout,Louisville,1994-01-22
+1312,female,Doris Koerner,Worthington,1959-12-17
+1313,male,Jacqueline Diaz,Rochelle Park,2000-12-24
+1314,female,Demetrius Ontiveros,Nashville,1985-09-26
+1315,female,Jeremy Gomez,Connerville,1991-10-11
+1316,male,Ryan Cox,New York,1964-06-25
+1317,female,Luis Shields,League City,1952-07-28
+1318,female,Beverly Davis,Chicago,1997-10-27
+1319,female,Ashley Troutman,Gaithersburg,1984-04-05
+1320,female,Shawn Gonzalez,Centennial,1961-12-11
+1321,male,Clare Corona,Wake Forest,1959-11-14
+1322,female,Mary Allen,Columbia,1969-10-02
+1323,male,James Ray,Little Rock,1966-10-31
+1324,female,Mark Larson,Boston,1978-12-01
+1325,male,Fredrick Martinez,Longview,1979-08-20
+1326,female,Mildred Barrow,Appleton,1972-12-10
+1327,male,Maritza Marchese,Los Angeles,1941-10-13
+1328,male,Michael Bonner,Phoenix,1981-05-18
+1329,female,Jose McDaniel,Tukwila,1989-11-23
+1330,male,Darline Demmer,Little Rock,1943-09-16
+1331,female,Raymond Fisher,Beverly Hills,1947-10-25
+1332,female,Jeanette Roberts,Duluth,1969-04-12
+1333,male,Sandra Thompson,Brookings,1942-04-05
+1334,male,Connie Blazek,Branson,1938-05-30
+1335,female,Florence Burkhardt,Westboro,1973-09-09
+1336,male,Sam Cayton,New York,2001-08-10
+1337,male,Roger O'Neill,San Francisco,1959-08-21
+1338,male,Dolores Charles,New York,1976-02-25
+1339,male,Frederick Gould,Indianapolis,1990-08-17
+1340,female,Walter Triplett,Euless,1936-12-26
+1341,male,Dolores McCown,Shreveport,1969-08-29
+1342,male,Brian Thomas,Houston,1961-06-16
+1343,female,Matthew Wright,Maple Shade,1951-12-08
+1344,female,Anna Milton,Providence,1999-04-27
+1345,male,Patricia Schwartz,Seattle,1979-06-01
+1346,female,Demetrius Weiss,Seattle,1961-01-21
+1347,male,Esther Klinger,East Aurora,1968-08-12
+1348,female,Tracy Thatcher,Vidalia,1936-04-19
+1349,female,Ila Davis,Orlando,1940-03-16
+1350,male,James Baughman,South Boston,1971-03-30
+1351,male,Paula Wicker,Knoxville,1938-11-19
+1352,female,Anita Perez,Seattle,1997-12-07
+1353,male,Charlotte Janus,Lexington,1950-12-18
+1354,female,Donald Broxton,Philadelphia,1987-02-25
+1355,female,Gloria Williams,Newark,1987-02-22
+1356,female,Jeanette Warren,Chicago,1951-12-20
+1357,female,Travis Brown,Kingstree,1989-01-11
+1358,male,Herbert Arnold,San Francisco,1941-05-04
+1359,male,Cindy Wong,Watauga,1979-08-27
+1360,female,Darlene Ireland,Elk Grove Village,1954-12-18
+1361,male,Candace Rich,Omaha,1968-10-15
+1362,male,Catherine Doud,Memphis,1946-12-29
+1363,male,Sherri Clayton,Mansfield,1995-12-11
+1364,female,Janet Villegas,New Augusta,1963-12-27
+1365,female,Johnnie Smiley,Red Bank,1959-11-02
+1366,female,Jeremy Gore,Garfield Heights,1966-09-06
+1367,male,Byron Bohn,Piedmont,1972-10-11
+1368,male,Russell Duvall,Cranford,1970-01-19
+1369,female,Barbara Henriques,Worcester,1963-11-26
+1370,male,Loraine Roberts,Rushville,1953-02-15
+1371,male,Michael Martinez,Tampa,1987-06-29
+1372,male,Mary Cummings,Martinsville,1963-12-16
+1373,female,Penny Vicknair,Nederland,1979-03-23
+1374,male,Sharon Schaefer,Atlanta,1987-10-16
+1375,male,Juan Honey,Westerville,1973-01-04
+1376,male,John Ponce,Asheville,1991-07-27
+1377,male,Edwin Ross,Kensett,1946-08-01
+1378,female,Bettie Whitaker,Kissimmee,1996-02-21
+1379,female,Christopher Fernandez,Moanalua,1948-11-30
+1380,male,Anne Mauldin,Conroe,1953-04-05
+1381,female,Joni Spears,Raleigh,1978-08-23
+1382,male,Daphne Barron,Visalia,1968-12-14
+1383,female,Luis Simons,Los Angeles,1944-07-15
+1384,male,Richard Abeyta,Rutland,1941-02-17
+1385,female,Robert Hartsfield,Reno,1994-12-04
+1386,male,Kristine Harris,Monroe,1953-07-02
+1387,female,Eric Howse,Houston,1983-04-25
+1388,female,Cecil Tyre,Erie,1938-01-12
+1389,female,Eilene Black,Holly Oak,1941-08-09
+1390,female,Martha Camper,Washington,1983-05-29
+1391,female,Laura Wason,Ann Arbor,1987-02-08
+1392,male,Rena Ramsdell,Watauga,1994-08-02
+1393,female,Leonard Fox,Lexington,1994-05-02
+1394,female,Florence Ahlers,Pomona,1994-01-08
+1395,male,William Parker,Mount Cory,1995-05-06
+1396,male,Terry Martin,Houstonia,1939-01-03
+1397,male,Danielle Perez,Toyei,1951-10-02
+1398,male,Willie Burns,Dallas,1964-11-14
+1399,male,Brian Sullivan,Brooklyn,1992-12-10
+1400,male,Lloyd Wilson,Fresno,1941-08-22
+1401,male,Thomas Colvard,Newport,1953-09-27
+1402,male,Gerardo Skidmore,Hollywood,1975-05-14
+1403,male,Michael Peterson,Irving,1987-12-27
+1404,male,Andrew Garza,Alexandria,1974-03-26
+1405,male,Faye McLemore,Pomona,1951-09-02
+1406,male,Felecia Dupuis,Anchorage,1991-12-05
+1407,male,Lucile Rodriguez,Hickory Hills,1967-10-28
+1408,female,Melba Tolleson,Detroit,1938-09-08
+1409,female,Carroll Briggs,Wichita,1947-11-13
+1410,female,Roger Horton,Fort Worth,1963-08-01
+1411,male,Frank Perez,Cincinnati,1946-10-21
+1412,male,Ronald Baker,Saint Louis,1954-07-30
+1413,female,Debra Hackney,Knoxville,1935-07-06
+1414,female,Sonya Billings,Fallon,1991-01-13
+1415,male,Bernadine Sellers,Somerset,1948-01-12
+1416,male,Kelly Morin,Chico,1935-10-15
+1417,male,David Mason,Kearns,1991-08-02
+1418,male,Consuelo Horton,Lafayette,1974-01-14
+1419,female,Priscilla Ward,Paradise,1957-07-12
+1420,female,Judith Wetherbee,Bay City,2001-06-20
+1421,female,Shirley Marrero,Los Angeles,1979-08-08
+1422,female,Peter Harris,Albany,1935-05-23
+1423,male,Preston McNally,Albany,1952-04-27
+1424,male,Deborah Patel,Kanawha,1944-03-18
+1425,male,Ada Lynch,Kansas City,1964-02-15
+1426,female,Gregory McQuaid,Dalton,1949-03-29
+1427,male,Anna Boyd,Rancho Cordova,1995-02-02
+1428,male,Patrick Davis,Marshall,1965-10-14
+1429,male,Natalia Nowak,Spokane,1982-09-25
+1430,male,Charles Phillips,Louisville,1972-01-22
+1431,male,Linda Valenzuela,Burbank,1974-11-01
+1432,male,Amy Wagers,Santa Ana,1956-04-03
+1433,male,Monica Davis,Napa,1979-06-11
+1434,female,Scott Sanchez,Arlington,1958-01-30
+1435,male,Sylvia McManus,Danbury,1981-12-27
+1436,male,Jeffrey Taylor,Florence,1980-05-13
+1437,male,Jose Kraft,Lake Worth,1967-06-23
+1438,female,Paul Griffin,Blanchard,1985-02-14
+1439,female,Damien Sloat,Phoenix,1942-05-27
+1440,female,Andrew Lawrence,Fredericksburg,1935-10-06
+1441,female,Thomas Colon,Asheville,1993-06-06
+1442,male,Beulah Blakeley,Dallas,1994-12-17
+1443,female,Maragaret Fields,Egg Harbor,1965-12-14
+1444,female,Hazel Gray,Frederick,1997-09-08
+1445,female,Jose Mendez,Norcross,1935-07-02
+1446,female,Mary Fox,Beltsville,1936-08-18
+1447,female,Natasha Manzer,Salisbury,1938-05-17
+1448,female,Melba Landa,Winter Haven,1946-01-08
+1449,female,Heather Estrada,San Francisco,1972-06-16
+1450,female,Barbara Kennedy,Pittston,1941-07-05
+1451,female,Kathleen Vaillancourt,Molalla,1935-12-04
+1452,male,Marlon Humphrey,North Reading,1981-04-21
+1453,female,Joshua Cox,Norwalk,1956-08-18
+1454,male,Jannet Stine,Peoria,1956-08-22
+1455,female,Henrietta Coons,El Paso,1949-01-10
+1456,male,Erica Pridgen,Bay City,1996-04-10
+1457,female,Fredrick Townsend,Youngstown,1995-12-18
+1458,male,James Malone,Atlanta,1990-08-19
+1459,male,Marian Juarez,Centennial,1938-10-07
+1460,male,Harry Williams,Sugar Land,1965-06-19
+1461,female,Laura Ham,Chidester,1941-06-19
+1462,female,Jerry Kruse,San Diego,1973-07-07
+1463,male,Sharyn Dumont,Houston,1995-08-13
+1464,female,Etta Mooney,Orlando,1972-01-05
+1465,male,Catherine Thomas,Sacramento,1957-01-24
+1466,female,Virgil Moore,Palm Desert,1999-04-25
+1467,male,Bryan Matney,Wichita,1987-10-02
+1468,male,Sonia Baisley,Fence River,1943-05-07
+1469,female,Bryon Currier,West Palm Beach,1940-01-04
+1470,male,Tatiana Eye,Glen Burnie,1984-05-08
+1471,female,Barbara Clough,Texarkana,1978-10-12
+1472,female,Charles Coon,Montgomery,1971-03-22
+1473,female,Paul Jiles,Davenport,1957-09-03
+1474,male,Sung Hofman,Indianapolis,1973-12-03
+1475,female,Marvin Wright,New York,1983-06-22
+1476,female,Marcus Hargraves,Mountain View,1969-05-31
+1477,male,Ken Heinrich,Stockton,1959-10-01
+1478,male,Adela Patterson,West Palm Beach,1985-09-27
+1479,female,Darrell Price,San Francisco,1940-01-20
+1480,male,Margaret Sanders,Providence,1957-03-17
+1481,male,Sharon Lybarger,Rapid City,1963-05-09
+1482,female,Ronald Arneson,Atlanta,1968-10-07
+1483,female,Richard Britt,Richardson,1939-05-04
+1484,female,Curtis Borger,Weehawken,1943-02-04
+1485,female,Larry Levering,Anchorage,1987-11-11
+1486,male,Tom Parrish,Lansing,1937-06-29
+1487,male,Shiela Pierce,Solway,1967-09-09
+1488,female,Chelsea White,Mingo Junction,1963-09-24
+1489,female,Herbert Moore,Lubbock,1936-05-09
+1490,female,William Hummel,Delavan,1941-03-28
+1491,female,Gary Penick,Columbia,1975-09-25
+1492,male,Tracy Barber,Gainesville,1948-09-21
+1493,female,Nicholas Mingus,Norcross,1938-08-25
+1494,male,Juanita Jewett,Manchester,1937-03-20
+1495,male,Clinton Mixon,Albuquerque,1963-07-07
+1496,male,Larry Ellis,Saint Louis,1986-09-18
+1497,male,Karen White,Shoreview,1987-06-01
+1498,female,Samuel Chitty,Baton Rouge,1942-12-29
+1499,male,George Blair,Inverness,1991-09-18
+1500,female,Mary Gray,Seattle,1952-05-26
+1501,female,Wendy Cutler,New York,1977-08-11
+1502,female,Gail Triplett,Merrillville,1956-12-02
+1503,male,Donna McCracken,Roanoke,1934-11-08
+1504,female,David Brower,San Francisco,1993-07-14
+1505,male,Darrell Forsythe,Southfield,1950-08-18
+1506,female,James Castle,Troy,1973-12-12
+1507,male,Bobby Sloan,Winston Salem,1984-03-22
+1508,female,Lindsey Sherrod,Saint Louis,1941-02-04
+1509,male,Brenda Tucker,Giddings,1938-11-02
+1510,female,Crystal Manning,New York,1980-08-12
+1511,female,Jonathan Lally,Medina,1995-08-16
+1512,male,Mary Culler,Monterey,1947-11-08
+1513,female,Rose Galvez,Long Beach,1981-03-13
+1514,male,Ella Fewell,Hudson,1983-05-27
+1515,female,Mary Reppert,Mesquite,1970-07-07
+1516,male,Hugo O'Neill,Peach Orchard Township (Ford),1981-06-22
+1517,female,Christine Gilbreath,Abilene,1991-11-05
+1518,male,Josephine Wolfe,Johnson City,1973-08-28
+1519,male,Cathy Shaffer,Ellington,1950-06-06
+1520,male,Richard Bay,Boston,1990-05-23
+1521,female,Clara Hughes,Garden City,1961-06-06
+1522,female,Christy Marvel,Westborough,1985-12-18
+1523,male,Gloria Pearce,Phoenix,1990-09-11
+1524,female,Roderick Covert,Minot,1961-08-31
+1525,male,Lula Smith,North Little Rock,1954-11-25
+1526,male,William Holt,Dallas,1988-11-26
+1527,female,Derek Miller,Sierra Madre,1997-06-14
+1528,female,Christy McCarthy,Pico Rivera,1966-10-23
+1529,female,Ashley Barrett,Newport News,1968-02-23
+1530,female,James Milliken,Blue Ridge Summit,1999-08-08
+1531,male,Bill Pomerleau,Southfield,1944-12-01
+1532,female,James Buckner,Daniel Island,1993-09-20
+1533,male,Maurice White,Seattle,1957-06-24
+1534,male,Rodney Brown,Campbellton,1936-04-04
+1535,female,Rebecca Johnson,South Bend,1981-05-01
+1536,female,Daniela Burton,Hickory Hills,1980-12-22
+1537,female,Sherman Lees,Tampa,1984-01-02
+1538,male,Sheila Whitis,New Orleans,1956-03-01
+1539,male,Alex Castillo,Petoskey,1995-01-30
+1540,male,Suzanne Grimmett,Paducah,1956-12-12
+1541,male,Dusty Funk,Austin,1951-12-04
+1542,female,Robert Shelton,Tulsa,1986-10-18
+1543,male,Florence Poole,Cushing,1957-10-22
+1544,female,Gerald Davis,Columbus,1940-04-21
+1545,female,Melinda Garza,Vincent,1962-05-02
+1546,female,Shavon Rourke,Chapin,1985-12-29
+1547,female,Robert McMahon,Salina,1986-07-29
+1548,male,Sally Thompson,Charlotte,1949-02-06
+1549,female,Grace Bowen,Watertown,1985-10-29
+1550,male,Archie Zeller,Saint Louis,1942-11-25
+1551,female,Robyn Estrada,North Vernon,1959-01-06
+1552,female,Patricia Smalls,Huntington,1940-06-29
+1553,male,Mary Harrington,Chicago,1941-09-05
+1554,female,Jason Beavers,Indianapolis,1950-04-23
+1555,male,Enrique Baumgartner,Northfield,1964-11-10
+1556,female,Diana Pereira,Grand Island,1955-06-04
+1557,male,Sarah Garver,Portsmouth,1946-05-23
+1558,male,James Martinez,Pomona,1947-06-09
+1559,female,Daphne Neel,Burr Ridge,1979-07-27
+1560,male,James Marino,Gaffney,1979-03-31
+1561,female,Pearl Servin,Worthington,1966-05-26
+1562,male,Anna Rogers,Huntsville,2001-08-09
+1563,male,Sandi Burch,Stillman Valley,1975-03-22
+1564,male,Barbara Fagan,Altoona,2000-07-21
+1565,male,Terrance Orenstein,San Francisco,1973-06-26
+1566,male,Dorothy Prestwood,Manchester,1997-02-12
+1567,male,Brent Heard,Rocky Mount,1976-03-29
+1568,male,Maria Rodriguez,Anaheim,1951-05-13
+1569,male,Timothy Elmer,Clare,1985-04-05
+1570,female,Roy Sanford,Charleston,1971-07-08
+1571,male,Darrin Thomas,Sierra Vista,1943-05-08
+1572,female,Elise Lee,Phoenix,1971-06-08
+1573,female,William Seifert,Herndon,1985-05-07
+1574,female,Kerrie Damron,Nashville,1981-12-17
+1575,female,Marlena Epperson,Atlanta,1974-05-24
+1576,male,Connie Rojas,Merrillville,1967-05-06
+1577,male,Adelaide McBride,Medford,1963-09-08
+1578,male,James Stine,Cincinnati,1951-03-27
+1579,female,Harold Bourget,Lafayette,1989-12-16
+1580,female,John Gonzalez,Philadelphia,1969-05-01
+1581,female,Britany Greene,Flint,1972-06-26
+1582,male,Donald Cooper,Gibsonia,1998-03-04
+1583,male,Stephanie Nguyen,Providence,1951-01-04
+1584,male,Jennifer Lopez,Fairbanks,1965-06-03
+1585,female,Rena Bernhardt,Waterbury,1990-02-20
+1586,male,Curtis Newman,Topeka,1974-11-07
+1587,female,Loretta Wilson,San Antonio,1935-09-11
+1588,male,Deborah Diaz,Grand Rapids,1970-04-02
+1589,female,Elena Cohen,Houston,1973-08-02
+1590,female,David Johnson,Turtle Creek,1961-05-15
+1591,male,Gregory Ambrose,Moundridge,1958-08-14
+1592,male,Joe Dunn,Smyrna,1982-09-21
+1593,male,James Plummer,Piscataway,1964-06-29
+1594,female,Galina Burg,Glen Allen,1942-08-05
+1595,male,Carolyn Lopez,Big Canoe  Dawson,1965-07-09
+1596,female,Daniel Moore,Richmond,1958-10-13
+1597,female,Vera Stewart,Fort Worth,1999-08-10
+1598,male,Maria Eubanks,Dallas,1935-01-06
+1599,male,Camille Grigg,Raleigh,1992-12-26
+1600,male,David Hardison,Rochester,1941-04-12
+1601,female,Clifton Peterson,Oakland,1997-09-16
+1602,male,Yolanda Murray,Billings,1996-12-29
+1603,female,Claudette Hampton,Wadena,1947-07-29
+1604,female,Natalie Robertson,Wheatland,1954-01-01
+1605,female,Franklin Cudney,Los Angeles,1940-11-14
+1606,female,Diane Mather,Albany,1956-05-01
+1607,female,Russell Lee,New York,1950-08-09
+1608,male,Stacie Hawk,Kinston,1940-06-03
+1609,female,Samantha Bethea,Hickory Hills,1984-10-29
+1610,male,Filiberto Gadbois,Kingsport,1950-03-26
+1611,male,Elizabeth Prather,Fort Myers,1974-05-29
+1612,female,Cynthia Wint,Huntsville,1998-05-13
+1613,female,Lynne North,Wallingford,1989-07-29
+1614,female,Michael Heatherly,Santa Ana,1948-01-26
+1615,male,Benjamin Collins,Bellflower,1975-02-18
+1616,female,Virgina Maynard,La Mesa,1996-05-09
+1617,male,John Powell,Plaucheville,1951-05-27
+1618,female,Samantha Mendez,Kirkland,1964-01-16
+1619,male,Lois Glass,Dayton,1967-11-18
+1620,male,Benita Viverette,East Syracuse,1998-11-05
+1621,female,Steven Becker,South Burlington,1945-08-29
+1622,female,Trudy North,Washington,1967-09-02
+1623,male,Hillary Ferguson,Pecan Island,1938-11-25
+1624,male,Ali Henry,Woodstock,1985-05-25
+1625,male,Kenneth Hurley,Eureka Rural,1940-11-24
+1626,male,David Darden,Gulfport,1949-05-29
+1627,female,Margaret Dillon,San Diego,1941-03-07
+1628,male,Michelle Medina,Hawkins,1984-10-20
+1629,female,Marion Handler,Asheville,1995-06-10
+1630,female,Stephanie Silva,Hicksville,1996-07-26
+1631,female,Eric Taylor,Destrehan,1998-02-21
+1632,female,Samuel Mullis,Turtle Creek,1970-02-28
+1633,male,Nathaniel Kuehn,Wood Dale,1978-03-02
+1634,male,Kimberly Weight,Riverside,1985-07-22
+1635,male,Coletta Puryear,Ypsilanti,1935-06-29
+1636,male,David Tully,New Smyrna Beach,1955-01-03
+1637,female,Bert Curtis,Kaneohe,1982-07-15
+1638,male,Stephanie Maldonado,Lake George,1983-03-08
+1639,female,Jerry Turner,Las Vegas,1949-06-20
+1640,male,Robert Moorer,Upper Darby,1987-02-19
+1641,female,Douglas Gonzales,Reston,1995-11-18
+1642,male,James Walker,Mechanicsburg,1998-12-03
+1643,female,Albert Grant,Highland Park,1959-08-27
+1644,male,Jeannie Meyer,Irvine,1961-10-23
+1645,female,Ruth Freeman,Alexandria,2000-10-28
+1646,female,Laura Heyman,Reston,1996-06-22
+1647,female,Rhonda Turner,Indianapolis,1965-12-27
+1648,female,Claire Staton,San Francisco,2000-11-03
+1649,female,Cameron Cox,Gainesville,1948-02-10
+1650,male,Mary Dixon,Santa Clara,1975-07-24
+1651,male,Dennis Sullivan,Culver City,1954-08-07
+1652,female,Stephaine Boughton,Chillicothe,1975-10-06
+1653,female,Lee Benard,Parsons,1939-11-03
+1654,male,Isaiah Sandoval,Moundsville,1994-09-20
+1655,male,Christian Hall,Salinas,1983-09-05
+1656,female,Darrell Koch,Irvine,1934-12-08
+1657,male,Emily Robinson,Paradise,1950-03-26
+1658,female,Adam Duque,Simi Valley,1972-11-08
+1659,female,Carlos Ellison,Minneapolis,1972-06-18
+1660,male,Betty Webb,Sunbury,1943-07-08
+1661,female,Arie Crooks,Spring Grove,1976-05-11
+1662,female,Marguerite Rivera,Santa Fe Springs,1949-10-08
+1663,female,Kristen Peeples,Amarillo,1939-11-10
+1664,male,Marion Pitts,Sacramento,1970-06-01
+1665,female,Gail Holland,Raleigh,1971-02-16
+1666,female,Donna Todd,Philadelphia,1963-01-22
+1667,female,Elsa Wetmore,Alberton,1942-09-15
+1668,female,Marcella Thomas,Nondalton,1960-06-17
+1669,male,Valerie Mouton,Asheville,1986-10-03
+1670,female,Ernest Covey,Bergland,1955-07-30
+1671,female,Cameron Zambrano,Phoenix,1987-01-27
+1672,female,Judith Torres,Mountain View,1938-09-20
+1673,male,Wayne Dillard,Oakland,1992-03-05
+1674,male,Jamie Boston,Schaumburg,1935-12-01
+1675,male,Ruby Hill,Beltsville,1972-07-11
+1676,male,Maria Williams,Lake Bronson,1968-05-30
+1677,female,Sherry Flores,Monroe,1938-06-24
+1678,male,Mary Cho,Gaffney,1956-08-11
+1679,female,Edith Williamson,New York,1938-11-05
+1680,female,Harold Fink,Washington,1944-03-02
+1681,male,Stacy Thompson,Hamden,1957-07-17
+1682,male,Charles Amos,Minneapolis,1974-08-12
+1683,female,Adrienne Patterson,Yorktown,1979-12-21
+1684,male,Mary Trollinger,Westland,1950-12-05
+1685,male,Robert McWilliams,Saint Cloud,1998-08-02
+1686,male,Thelma Gould,Miami,1994-10-04
+1687,female,Slyvia Su,Austin,2001-06-17
+1688,male,Grady Cooley,Seymour,1989-10-03
+1689,female,John Rowan,Worthington,1963-01-22
+1690,male,Karen Arthurs,Greentown,1937-02-02
+1691,male,Audrey Holmes,Cedar Rapids,1934-12-02
+1692,male,Gretchen Brown,Frankfort,1968-05-28
+1693,male,Darren Grover,Denver,1937-04-14
+1694,female,Dennis Smith,Sharonville,1980-08-20
+1695,female,Catherine Chambers,Fremont,1992-05-12
+1696,male,Jacob Word,Newark,1960-05-24
+1697,female,Billy Norris,Thousand Oaks,1939-11-03
+1698,female,Anita Severson,San Antonio,1982-11-04
+1699,female,James Poor,Plymouth Meeting,1956-06-12
+1700,female,Ronald Kennedy,Stockton,1957-03-24
+1701,female,Doyle Holland,Knoxville,2000-12-31
+1702,male,Ron Davis,Wilkes Barre,1990-04-12
+1703,female,Harry Henry,Midland,1960-02-18
+1704,male,Eddie Tompkins,Camden,1975-05-23
+1705,male,Margaret Mize,North Gulf Beach,1965-06-27
+1706,female,Robert McCoy,Miami,1935-05-29
+1707,female,Albert Perez,Lafayette,1947-10-14
+1708,male,Lisa Young,Anchorage,1999-01-18
+1709,female,Benjamin Golston,El Paso,1986-04-06
+1710,male,Karen Olivo,Cottonwood,1966-07-10
+1711,male,John Ayala,Columbia,1996-11-02
+1712,male,Magdalen Pawlak,Stockton,1983-04-11
+1713,female,David Gross,Huntington,1992-01-07
+1714,male,Julius Collins,Littleton,1952-08-28
+1715,female,William Schafer,Ossining,1966-07-29
+1716,male,Ron Waddell,Gardena,1964-06-12
+1717,female,Jon Speakman,Norcross,1945-12-04
+1718,male,Carol Woolf,Washington,1993-06-16
+1719,female,Wanda Loranger,Erie,1998-04-29
+1720,male,Denice Matchett,Parkersburg,1950-08-12
+1721,female,William Fawcett,Charlotte,1940-06-11
+1722,male,Lilly Elizondo,Spofford,1937-07-02
+1723,male,Jeromy Veal,Salt Lake City,1997-06-09
+1724,female,Michael Gallant,Cridersville,2001-05-20
+1725,female,Joseph Barth,Johnstown,1972-11-16
+1726,male,Courtney Preuss,Elgin,1987-05-27
+1727,male,Stacey Gonzales,Hampton,1947-06-16
+1728,male,Alma Bartz,Cleveland,1947-06-28
+1729,female,Randall Carpenter,Pittsburgh,1935-03-29
+1730,female,Katie Early,Washington,1970-07-13
+1731,female,Tyrone Harris,Spokane Valley,1948-08-09
+1732,male,Ryan Alicea,Schaumburg,1960-06-12
+1733,male,Mark Whited,Wheaton,1984-01-17
+1734,female,Willie Vanetten,Nortonville,1959-09-22
+1735,female,Dana Thomas,Houston,1993-10-18
+1736,female,Michael Martinez,Pomona,1964-05-22
+1737,female,Mary Jasper,Boise,1955-07-25
+1738,female,Anna Burton,Newton,1995-12-18
+1739,male,Candice Muth,Springfield,1996-12-17
+1740,male,Christopher Seymore,Aurora,1941-04-10
+1741,female,Brenton Bragg,Newark,1943-08-11
+1742,female,Miriam Santiago,Teterboro,1938-01-02
+1743,female,Geneva Peck,Nashville,1990-04-11
+1744,male,Christopher Young,Savannah,1951-09-25
+1745,female,Marybeth Ortega,Avant,1997-02-27
+1746,male,Alicia Daley,Westland,1948-11-10
+1747,male,Steve Feltman,Lincoln,1964-08-03
+1748,male,Robert Gilchrist,Sterling,1972-11-28
+1749,male,Shirley Wallace,Walnut,1969-10-06
+1750,male,Laura Stitt,Deerfield,1966-09-25
+1751,female,Thomas Christmas,Charlotte,1988-04-05
+1752,male,Anthony Neace,Orlando,1989-08-25
+1753,male,Natalie Patterson,Los Angeles,1947-12-14
+1754,female,Eileen Frame,Boston,2000-10-17
+1755,female,Richard Butler,Tulsa,1960-07-06
+1756,female,Latrice Reed,Atwater,1970-11-17
+1757,male,Janis Little,Livonia,1961-11-06
+1758,male,Keith Dall,Los Angeles,1977-10-08
+1759,male,Craig Weddle,Northridge,1964-02-09
+1760,female,Suzanne Pope,Tempe,1982-07-16
+1761,male,Juanita Pappas,Mineola,1964-08-09
+1762,female,Gregory Weber,Morristown,1948-08-09
+1763,male,Milton Gonzalas,Charlottesville,1960-09-18
+1764,male,Shannon Corona,Schaumburg,1962-01-18
+1765,male,Elaine Harrison,Coffeeville,1946-06-08
+1766,female,Christine Thomas,Ashburn,1979-12-09
+1767,female,Mattie Wilson,Pensacola,2000-05-27
+1768,male,Leslie Manwaring,San Diego,1996-06-24
+1769,female,Charla Peck,Long Island City,1944-04-19
+1770,female,Kendra Johnson,Mansfield,1952-02-01
+1771,female,Keith Douglas,Bristol,1991-10-24
+1772,male,Jorge Guerrero,Bridgeview,2001-04-22
+1773,male,Travis Curry,Los Angeles,1977-08-24
+1774,female,Ines Blanchard,Logan,1961-07-08
+1775,female,Thomas Jennings,Stamford,1944-01-10
+1776,male,Amanda McClain,Hattiesburg,1971-04-22
+1777,female,Gilbert York,Bethpage,1990-03-03
+1778,female,Michael Cullins,Ripley,1965-10-30
+1779,female,Andrew Vannorman,Rochester,1940-09-24
+1780,female,Gary Whaley,Philadelphia,1942-03-29
+1781,male,Andrea Guizar,Philadelphia,1958-07-20
+1782,male,Carla Clayton,Kansas City,1994-06-01
+1783,male,Barbara Bustillos,New York,1984-05-27
+1784,male,Jarrett Joiner,Holmesville,1950-03-01
+1785,female,Madeline Coronado,Scottsdale,1982-07-16
+1786,female,Rolanda Thompson,Loveland,1976-09-06
+1787,female,Frances Haworth,Pine Bluff,1935-04-22
+1788,male,Toya Benson,Philadelphia,1945-03-15
+1789,male,Jody Brown,Dodgeville,1996-02-18
+1790,female,Willie Melvin,Eden Prairie,1994-03-19
+1791,male,Nicole Henderson,Oakland,1940-04-03
+1792,male,Herbert Fleming,Nashville,1993-12-07
+1793,female,Connie Prather,Los Angeles,1972-07-10
+1794,male,Sherry Gates,Hickory,1945-06-20
+1795,female,Calvin Orr,Minneapolis,1969-09-15
+1796,female,David Smith,Waconia,1949-07-28
+1797,female,Dalia Moore,Syracuse,1937-11-23
+1798,female,Susan Colclough,Eagleville,1935-07-25
+1799,male,Lois Marks,Bethesda,1945-06-22
+1800,female,Lynn Schafer,Centreville,1940-04-01
+1801,male,Matthew Koury,Sumner,1991-10-31
+1802,male,Nancy Evelyn,Saginaw,1997-06-13
+1803,male,Peter Houser,Syracuse,1950-02-21
+1804,male,Henry Jackson,Tampa,1963-04-30
+1805,male,Amanda Kaya,Tunica,1999-01-19
+1806,male,William Jaime,Winston Salem,1948-10-02
+1807,male,Reginald Tenney,Dekalb,1965-06-27
+1808,female,Lucille Condit,Charlotte,1962-11-16
+1809,male,Allison Sanchez,Huntsville,1967-11-29
+1810,male,Floyd Luevano,Nashville,1951-06-15
+1811,male,Samantha Brown,Windham,1989-01-19
+1812,male,Diana Oneal,Duluth,1970-07-18
+1813,male,Dina Alvarez,San Jose,1973-08-13
+1814,male,Sharon Stclair,Reddington,1974-05-21
+1815,male,Bernard Forester,Waltham,1941-09-12
+1816,female,John Reeves,Springfield,1952-02-19
+1817,female,Roderick Lutz,Roanoke Rapids,1961-03-18
+1818,male,Debra Crownover,Santa Barbara,1981-09-28
+1819,female,Jaime Rhoads,Louisville,1955-01-14
+1820,female,Maye Moreno,Gadsden,1949-02-11
+1821,male,Juliet Baker,Orchards,1994-10-03
+1822,female,Jerry Reynolds,North Fort Myers,1999-12-12
+1823,male,Azucena Martin,Houston,1952-03-24
+1824,female,Tommy Snyder,Burlington,1974-04-11
+1825,male,Donald Williams,Washington,1979-09-24
+1826,female,Jon Ray,Charlotte,1945-05-19
+1827,female,Don Ellison,Stlouis,1984-08-08
+1828,male,Fred McGregor,Mocksville,1960-07-03
+1829,female,Mary Gabriel,Pittsburg,1971-08-04
+1830,female,John Carlberg,Fort Worth,1994-06-16
+1831,male,Walter Nash,Westville,1950-10-13
+1832,female,Roy Johnson,Kent,1986-05-27
+1833,male,Shirley Barnes,Bellflower,1950-03-31
+1834,male,Kristy Thomas,Gardena,1951-12-04
+1835,male,Kathleen Munoz,Tampa,1945-08-21
+1836,male,Daniel Johnson,Dothan,1965-07-29
+1837,female,Dawn Franklin,Perrysville,1988-01-26
+1838,female,Shawn Meade,Nashville,1978-11-22
+1839,male,Travis Raley,Alhambra,1971-05-01
+1840,male,Vicky Demarco,Boston,1970-06-18
+1841,female,Angela Mason,San Antonio,1976-01-29
+1842,male,Teresa Doering,Warwick,1997-11-11
+1843,female,Ruth McDonough,Worcester,1947-05-21
+1844,female,Jacqueline Hulett,Altoona,2000-03-04
+1845,male,Dorothy Stephens,Sanostee,1969-01-06
+1846,female,Jean Murdock,Garwood,1956-03-12
+1847,male,David Jensen,North Hollywood,1999-05-10
+1848,male,Lillie Blanchard,Worcester,1965-11-23
+1849,male,Jayne Gill,Charleston,1958-01-02
+1850,female,James Patterson,Bartlesville,1988-10-06
+1851,female,Jeremy Hansen,Abilene,1981-02-20
+1852,female,Barbara Daley,Wallingford,2000-09-15
+1853,male,Nichole Peterson,West Roxbury,1938-03-25
+1854,male,Jayson Cascio,Yakima,1996-10-19
+1855,male,Betty Merideth,Austin,1960-06-26
+1856,female,Bernice Williams,Secaucus,1935-10-30
+1857,male,Dolores Hunt,Portland,1944-12-09
+1858,male,Patricia Baggett,Westbury,1943-02-24
+1859,male,Aja Prater,Pittsburg,1996-08-24
+1860,male,Kristina Moreno,York,1957-04-15
+1861,male,Jason Meyer,Fredericksburg,1996-08-28
+1862,male,Mary Westlund,Foxboro,2000-04-01
+1863,female,Gerardo Campbell,Savannah,1960-02-04
+1864,male,Calvin Dillman,Richwoods,1985-11-17
+1865,male,Brandon Warner,Orange Park,1988-09-29
+1866,male,Lula Lanning,Orange Park,1948-01-18
+1867,male,Ashley McClanahan,Corpus Christi,1988-03-07
+1868,female,Jeannetta Rosado,Horatio,1970-02-03
+1869,female,Jose Mitchell,Miami,1982-07-09
+1870,male,Charles Lehman,Pleasant Grove,1984-12-16
+1871,female,Sarah Wright,Reedpoint,1985-11-27
+1872,male,Cheryl Williams,Montgomery,1938-01-27
+1873,male,Greg Bealer,Phoenix,1997-04-20
+1874,male,Mary Waters,Memphis,1952-02-19
+1875,male,Emma Estrella,Mays,1992-09-10
+1876,female,Patricia Jones,Santa Rosa,1991-03-31
+1877,female,Flora Anthony,Dubuque,1942-07-03
+1878,female,Sarah Gravitt,Seattle,1938-01-22
+1879,male,Timothy Lehoux,Vidor,1982-09-11
+1880,female,Otto Thomas,Morrisville,1982-10-28
+1881,female,Eddie Willis,Washington,1983-07-29
+1882,female,Susana Wright,Iron Mountain,1986-10-22
+1883,female,Linda Tylor,Statesville,1979-04-18
+1884,female,Lorene Charles,El Paso,1957-11-12
+1885,female,Mark May,Dodge Center,1986-08-24
+1886,male,Sean Garcia,Grand Island,1974-04-01
+1887,male,Felipe Floyd,Asheville,1987-10-22
+1888,male,Madalyn Daley,Winchester,1953-12-22
+1889,female,James Martinez,Hartford,1975-06-18
+1890,female,Robert Morrissette,Springfield,1996-11-30
+1891,female,John Gaffney,Rancho Cordova,1957-01-09
+1892,male,James Young,Houston,1961-12-20
+1893,female,Brooke Reed,Warrensville Heights,1957-11-23
+1894,female,Jane Brandon,Brookings,1968-06-16
+1895,male,Harold Hanson,Clinton,1969-12-10
+1896,female,Carlos Lemay,Minonk,1991-06-18
+1897,male,William Perez,Glenville,1960-03-11
+1898,female,John Tuttle,Erie,1990-10-10
+1899,male,Raymond Lofland,Ontario,1968-02-27
+1900,female,Verna Gomez,Port St Lucie,1944-03-30
+1901,male,Anthony Boyd,Philadelphia,1962-04-21
+1902,female,Catherine Chea,Columbia,1973-10-30
+1903,male,Sharron Allen,Santa Rosa,1974-12-17
+1904,female,Curtis Gibson,Fremont,1975-08-14
+1905,female,Nellie Salazar,Indianapolis,1970-01-21
+1906,male,Edgar Martinez,Owego,1946-02-07
+1907,male,Echo Hill,Shenandoah,1942-11-24
+1908,female,Alberto English,Sacramento,1946-04-09
+1909,female,James Hauck,State College,1951-01-19
+1910,female,Jamaal Jordan,Molalla,1935-09-06
+1911,female,Sara Aron,Defiance,1969-12-01
+1912,female,Forrest Nelson,Norristown,1978-12-06
+1913,female,Eric Moses,Fresno,1966-11-11
+1914,female,Carl George,New Brunswick,1999-12-11
+1915,male,Kimberly Pineda,Little Rock,1979-12-06
+1916,male,Blanche Jameson,Plato,1972-05-04
+1917,female,Dannielle Manseau,Jacksonville,1956-11-15
+1918,female,Edward Lomeli,Lansing,1994-02-20
+1919,male,Anthony Jones,North Bloomfield,1968-05-02
+1920,male,Julia Bentley,Albany,1966-02-02
+1921,female,Steven Powell,Philadelphia,2000-03-26
+1922,female,Wanda Madison,Boston,1964-06-29
+1923,male,Frank Brothers,Taunton,1943-06-19
+1924,female,Jeffrey Moore,Burbank,1937-05-14
+1925,female,Sallie Calvert,Cambridge,1937-01-13
+1926,female,George Rodriguez,Bear Valley Springs,1950-12-27
+1927,male,Charles Adams,Brattleboro,1993-11-28
+1928,female,Mathew Klar,Wagon Mound,1956-05-22
+1929,female,Marie Overbay,Houston,1997-03-14
+1930,male,Henry Padilla,San Francisco,1968-06-08
+1931,female,Gloria Pace,Mobile,1989-11-10
+1932,female,Cheryl Randle,Chicago,1942-08-20
+1933,female,David Bostwick,West Los Angeles,1947-07-01
+1934,male,Deborah Wilson,Des Moines,1984-04-03
+1935,female,Marie Dalton,Tigard,1981-08-13
+1936,male,Lynn Widger,Winter Park,1984-02-22
+1937,female,Erma Moses,Houston,1996-08-16
+1938,female,Jose Hair,Frisco,1978-05-27
+1939,male,Quentin Miller,Durham,1966-11-23
+1940,female,Margaret Ceballos,Poughkeepsie,1936-10-25
+1941,female,Theodore Holland,Harold,1969-03-23
+1942,male,Dan Hildebrandt,Davenport,1994-09-17
+1943,female,Dollie Thorton,Los Angeles,1989-12-22
+1944,male,Caroline Haney,Kentwood,1942-06-13
+1945,female,Oliva Ware,Atlanta,1978-02-23
+1946,female,Eric Thomas,Eastland,1966-01-02
+1947,male,Natasha Boyer,South Portland,1987-10-30
+1948,male,Robert Chestnut,Saint Paul,1952-08-10
+1949,female,Kathleen Candelaria,Zachary,1973-09-11
+1950,female,Denny Rockwood,Hattiesburg,1942-01-09
+1951,male,Edward Edelman,Huntsville,1985-06-01
+1952,female,Susan Balog,Farmington Hills,1996-04-17
+1953,female,Michael Rigby,Clare,1961-12-15
+1954,female,Ruth Teague,Providence,1964-06-13
+1955,female,Matthew Alderman,Dunseith,1974-06-03
+1956,male,Raul Brittain,Davenport,1980-07-23
+1957,male,Bessie Davidson,Saint Paul,1997-03-27
+1958,female,Lilly Peterson,Oakland,1983-07-30
+1959,female,Frances Burdette,Saint Marys,1997-04-06
+1960,male,David Monge,San Leandro,1953-09-05
+1961,female,Lori Herbert,Corinne,1991-10-31
+1962,female,Louise Winburn,Garfield Heights,1977-03-10
+1963,male,Kathy Brennan,Auburn,1969-07-07
+1964,female,Mary Clay,Aurora,1953-06-28
+1965,female,Keri Pacheco,Billings,1963-11-16
+1966,female,Lester Seabolt,El Paso,1967-01-04
+1967,male,Edward Mitchell,Destin,1972-04-10
+1968,female,Nina Muller,Indianapolis,1985-01-20
+1969,female,Christina Rucker,Delray Beach,1995-05-25
+1970,male,Martha Relyea,Plano,1960-12-18
+1971,female,Frederick Chan,Kansas City,1960-08-13
+1972,male,Sandra Blanding,Madison,1990-12-30
+1973,female,Reba Mills,Columbia,1972-12-04
+1974,female,Lynell Cummings,Dripping Springs,1984-04-06
+1975,male,Cory David,Ocean View,1938-12-22
+1976,male,Robert Douglas,Rockville,1938-09-18
+1977,female,Tracy Parker,Tulsa,1967-02-09
+1978,male,Frances Zielinski,Rialto,1987-10-19
+1979,male,Steven Haffner,Baltimore,1936-07-23
+1980,male,Daniel Jones,Chicago,1955-11-10
+1981,female,Stephanie Carter,Southfield,1997-02-17
+1982,male,Grant Dick,Annapolis Junction,1980-02-16
+1983,male,Joseph Carr,Torrance,1954-08-14
+1984,female,Robert Pagan,Elgin,1986-09-25
+1985,female,Alan Ogg,Fresno,1981-06-02
+1986,male,Kelly Kelly,Teterboro,1952-01-07
+1987,male,Leonard Salgado,Louisburg,1977-07-13
+1988,male,Ronald Luse,Centennial,1996-06-08
+1989,male,Frances Francis,Caroleen,1956-11-17
+1990,female,Frances Wales,Yantis,1979-07-15
+1991,male,Linda Kidd,Rochelle Park,1956-12-27
+1992,male,Dawn Wilde,Bloomfield Township,1994-12-17
+1993,female,Jane Stich,Los Angeles,1980-08-28
+1994,male,Juliet West,Lake Forest,1964-05-30
+1995,male,Chong Brockman,Norcross,1985-04-10
+1996,female,Clarice Kanagy,Lafayette,1998-01-14
+1997,male,Mary Mendoza,Belle Mead,1966-12-09
+1998,female,Joseph Tilton,Laverne,1991-08-30
+1999,female,Sylvia Griffin,Midland,1978-09-17
+2000,female,Jennifer McVay,Tulsa,1994-12-11
+2001,male,Christopher Delagarza,Irvine,1957-07-28
+2002,female,Francis Robertson,Baton Rouge,1966-07-08
+2003,male,Elizabeth Foster,Gladwin,1970-03-19
+2004,male,Paul Durrett,Bismarck,1940-05-24
+2005,male,Ramon Huntley,Boonton,1950-12-31
+2006,female,Barbara Jones,Owatonna,1995-03-18
+2007,female,Michael Dates,Lepanto,1937-09-17
+2008,male,Barry Delvalle,Orlando,1990-10-12
+2009,female,Andrea Tice,Akron,1998-08-02
+2010,male,Irene Smead,Rolling Meadows,1940-02-16
+2011,female,Jason Johnson,El Segundo,1996-09-27
+2012,male,Luther Vega,New York,1950-06-29
+2013,male,Catherine Mullens,Bakersfield,1980-08-21
+2014,male,Ronald Avery,Woodland,1952-12-19
+2015,male,Gerald Tobin,Fredericksburg,1943-04-26
+2016,male,Marilyn Scott,Darlington,1979-11-19
+2017,female,Harvey Blanchard,Carmel,1999-09-20
+2018,male,Thomas Smith,Chicago,1968-12-25
+2019,male,Laverne Jones,Lebanon,1936-09-12
+2020,female,Faye New,Santa Rosa,1992-06-15
+2021,male,Daphne Dorsey,Saint Louis,1945-10-31
+2022,female,Mike Olson,Topeka,1945-09-13
+2023,female,Marion Kasper,Waipahu,1972-11-22
+2024,male,Benton Martinez,Lexington,1966-11-13
+2025,male,Lindsey Britt,Oklahoma City,1998-10-07
+2026,female,Linnea Britt,Santa Ana,1982-11-15
+2027,female,Timmy Lightfoot,Union City,1952-01-06
+2028,female,Paul Oliver,Hinckley,1977-11-07
+2029,male,Christopher Johnson,Lafayette,2000-11-06
+2030,female,David Currin,Pittsburgh,1947-09-14
+2031,female,Edward Kelly,Indianapolis,1984-02-07
+2032,male,Harold Lax,Seminary,1991-08-02
+2033,male,Timothy Anderson,Florence,1960-11-28
+2034,female,Ray Prior,Luverne,1990-03-22
+2035,female,Mark Caesar,Norfolk,1953-10-07
+2036,female,Dustin Schneider,Omaha,1998-09-03
+2037,male,Earnest McQuade,Tonica,1975-07-21
+2038,female,Cecilia Brennan,San Diego,1939-03-26
+2039,male,Catherine Lane,Kittanning,1937-12-10
+2040,male,Karin Calles,Green Rock,1996-10-06
+2041,male,Sean Willis,Pocahontas,1975-11-11
+2042,female,Jonathan Borders,Logan,1982-12-03
+2043,male,Taylor Pena,Cambridge,1979-01-26
+2044,female,Yang Williams,Golden Valley,1957-05-13
+2045,female,Alma Garrison,Phoenix,2001-07-05
+2046,male,Raymond Mack,Seattle,1963-02-10
+2047,female,Chris Hsieh,Las Vegas,1963-11-14
+2048,female,Mary Merino,Waco,1945-10-06
+2049,female,Maria Holder,Madison,1996-10-12
+2050,female,William Monge,Harrisburg,1991-04-04
+2051,male,Amy Fernandez,Evanston,1946-09-23
+2052,male,Carl Wilson,Brooklyn,1960-05-22
+2053,male,Ralph Dunn,Laurel,1943-09-14
+2054,female,Robert Chapman,Evansville,1937-05-15
+2055,female,Ralph Albright,Jacksonville,2001-04-25
+2056,female,Robert Sharpe,Evergreen,1964-10-10
+2057,male,Salvador Kammerer,Phila,1969-08-04
+2058,female,Rodolfo Teel,Pinedale,2001-02-14
+2059,male,Ann Brown,New York,1975-12-04
+2060,male,Shanell Ramos,Defiance,1945-07-29
+2061,male,Fred Taylor,New York,1940-06-25
+2062,female,Linda Middleton,Philadelphia,1987-12-11
+2063,female,Anna Trego,Gastonia,1950-09-08
+2064,male,Sarah Meyers,Des Moines,1939-02-21
+2065,female,Kelly Lewis,Hartford,1970-03-11
+2066,female,Markus Phillips,Bellingham,1995-03-06
+2067,female,Israel Turner,Lancaster,1998-06-28
+2068,female,Leonard Wilson,Kansas City,1976-02-10
+2069,female,Robert Roberts,Montezuma Creek,2000-01-18
+2070,female,Karen Mills,Harmon,1980-02-17
+2071,male,Nathan Richardson,Leesville,1938-05-04
+2072,male,Jeffrey Boice,Newton,1977-06-14
+2073,female,Emily Johnson,Tumon,1941-02-09
+2074,male,Victoria Leppert,Delmar,1992-03-01
+2075,female,Malinda Cole,Pensacola,1964-01-05
+2076,male,Johnny Smith,Fort Payne,2000-09-04
+2077,male,Elizabeth Abner,Los Altos,1988-03-13
+2078,female,Arleen Morillo,Sayre,2000-08-16
+2079,female,Francine Acosta,Lancaster,2001-07-22
+2080,male,Carmen Bunce,Reno,1991-08-28
+2081,female,Jeffrey Booth,Peoria,1988-02-04
+2082,male,Nola Hale,Lincoln,1978-01-31
+2083,female,Scott Wilson,Marshall,1963-05-31
+2084,female,Rosy Perez,Dallas,1963-12-25
+2085,female,Jerri Wofford,Indianapolis,1940-08-10
+2086,female,Maria McKean,Wheeling,1958-07-02
+2087,male,Salvador Smith,Westerville,1975-08-04
+2088,male,David Kendrick,Buffalo,1984-07-07
+2089,female,Eleanor Marshall,Albany,1998-11-03
+2090,male,Willie Davis,Atlanta,1958-06-22
+2091,male,Ryan Alexander,New Paris,1948-10-18
+2092,female,Emelia Stevens,Elizabeth,1941-01-31
+2093,male,Arlene Nunez,Denver,1993-12-21
+2094,male,Jessica Erickson,Albany,1977-08-23
+2095,female,Robert Davis,Chicago,1992-07-03
+2096,male,Brandon Davis,Fair Oaks,1955-01-10
+2097,female,Ken Guidry,Jackson,1938-07-13
+2098,male,Ashley Massey,Jackson,1992-02-11
+2099,male,Anthony Parker,Bohemia,1995-07-06
+2100,male,Jessica Downey,Atlanta,1942-05-01
+2101,female,Ken Kearns,Cedar Rapids,1959-10-11
+2102,female,Michael Sheehan,Phoenix,1990-02-20
+2103,female,Joseph Pohl,Dongola,1989-01-05
+2104,female,Scott Seaman,Cleveland,1992-01-28
+2105,female,Brenda Farkas,Farmers Branch,1935-07-17
+2106,male,John Taylor,Hempstead,1936-09-10
+2107,male,Maude Welty,Springfield,1974-02-16
+2108,female,Dorothy Randall,Issaquah,1955-08-07
+2109,male,Stephen Carroll,Chicago,1966-09-15
+2110,male,James Bush,Salt Lake City,1999-09-22
+2111,female,Claire Gragg,Boston,1953-11-21
+2112,female,Harry Wynn,Charlotte,1982-07-10
+2113,female,Frederick Waugh,Ashburn,1958-07-06
+2114,female,Floyd Mendoza,Warner Robins,1940-01-12
+2115,male,Herman Clem,Stewart,1953-04-08
+2116,female,Lauri Tillman,Aurelia,1993-05-22
+2117,male,Emilee Sullivan,Albany,1957-02-17
+2118,male,Jannet Wilson,Frisco,1943-04-28
+2119,female,Janie Siler,Danville,1975-02-14
+2120,male,Elizabeth Watson,Duluth,1936-01-09
+2121,female,Frank Hensley,Plymouth Meeting,1950-01-21
+2122,male,Jared Lassiter,Atlanta,1939-09-01
+2123,female,Fernando Johnson,Ottumwa,1963-03-03
+2124,female,Jamie Carey,Houston,1951-02-02
+2125,female,William Tucker,Beaver Falls,1952-07-28
+2126,female,Eric Porter,Enterprise,2000-10-10
+2127,female,Elva Clifford,Fremont,1971-02-12
+2128,female,Jessie Wages,Lafayette,1951-12-17
+2129,male,Daisy Collins,Philadelphia,1942-02-24
+2130,female,Mary McCree,Houston,1943-04-04
+2131,female,Gracie Randall,Mattoon,1990-10-25
+2132,female,Richard Burleson,Reno,1948-06-30
+2133,female,Dallas Bohnert,Nanticoke,1939-11-01
+2134,male,Phil Deese,Seaside,1980-08-02
+2135,male,Santiago Bolton,Augusta,1939-11-01
+2136,female,Kelly Rutherford,North Little Rock,1946-10-08
+2137,female,Isabel Casey,Moorhead,1982-07-24
+2138,female,David Pillar,Miami,1962-12-27
+2139,male,Sandra Rivera,Rockmart,1939-08-03
+2140,female,Charles Goss,Oklahoma City,1951-10-07
+2141,male,James Spencer,New York,1966-05-13
+2142,female,Ernest Hahn,Riverside,1991-02-22
+2143,female,Dennis Suggs,Harrisburg,1953-11-22
+2144,female,Rebeca Wolf,Dallas,1981-10-17
+2145,male,Christopher Collins,Cambridge,1942-03-17
+2146,female,Ramon Pinedo,Southfield,1976-12-08
+2147,female,Debra Mark,Peggs,1990-12-02
+2148,female,Lisa Knudsen,Stevens Point,1997-11-22
+2149,male,Brenda Miller,Oklahoma City,1975-04-16
+2150,female,Lula Taylor,Gilbert,1969-01-22
+2151,female,Marilyn Lu,Espanola,1973-11-25
+2152,female,Thaddeus James,Lincoln,1996-04-19
+2153,male,Pamela Kissee,Syracuse,1945-02-19
+2154,male,Christy Livingston,Philadelphia,1988-01-15
+2155,male,Betty Marra,Englewood,1999-06-04
+2156,female,Ronald Hernandez,Hazen,1993-09-06
+2157,male,Ella Adams,Lawton,1951-08-24
+2158,female,Aaron Love,New York,1941-05-15
+2159,female,Mark Erickson,Louisville,1958-01-17
+2160,male,Carol Fajardo,Longview,1946-12-11
+2161,female,Carl Reid,Santa Clara,1971-01-07
+2162,male,Clarence Wiley,Parker Ford,1939-05-15
+2163,male,Joseph Smith,Miami,1958-09-26
+2164,male,Gladys Brady,Sterling,1988-09-28
+2165,male,Minnie Vandyke,Syracuse,1965-06-13
+2166,male,Mindy Hennessey,San Antonio,1957-05-09
+2167,male,Alicia Howard,Seattle,1962-08-25
+2168,male,Jeremy Jackson,Metairie,1997-06-28
+2169,female,Wilfred Forrest,Wichita,1952-02-02
+2170,female,Anthony Starling,Cincinnati,1980-07-03
+2171,female,Debra Vega,Reston,1969-04-05
+2172,female,Jerry Leyva,Washington,1940-07-22
+2173,male,Alex Sheehan,Minneapolis,1975-01-08
+2174,female,Leroy Raymond,North Hollywood,1957-08-18
+2175,female,Christopher Moss,Brocket,1985-11-24
+2176,male,Shawn Dean,Stone Mountain,1956-11-02
+2177,female,Esther Wilson,Davenport,1999-04-30
+2178,male,Patricia Avila,Los Angeles,1955-12-07
+2179,female,Virginia McNeal,Los Angeles,1978-09-09
+2180,female,Roberto Brown,San Jose,1991-05-09
+2181,female,Sherry Rucker,Dayton,1949-11-16
+2182,female,Norris Smith,Cahaba Heights,1966-07-23
+2183,female,Kathy Donovan,Saint Cloud,1958-12-08
+2184,male,Scott Pascoe,Winchester,1971-11-10
+2185,female,Harriet Crane,Jacksonville,1950-10-02
+2186,male,Alexandra Karl,Reno,1975-10-18
+2187,female,Norma Abrams,Roswell,1978-10-01
+2188,female,Thanh Hill,Lima,1989-01-12
+2189,female,Victor Johnson,Daytona Beach,1942-12-13
+2190,female,Richard Kearney,New Glarus,1935-09-03
+2191,male,Jessica Foster,Utica,1948-01-14
+2192,male,Joshua Smith,Las Vegas,1954-04-19
+2193,female,Nadine Russell,Levittown,1999-11-05
+2194,male,Jean Tijerina,Portland,1998-08-11
+2195,male,Roger Johnson,Nashville,1961-02-16
+2196,female,Manuela Hernandez,Portland,1944-04-17
+2197,male,Jerome Potter,Fort Myers,1965-06-30
+2198,male,Sarah Edney,Herndon,1981-12-12
+2199,male,Russell Bell,Cincinnati,1975-04-07
+2200,male,Dwayne Webster,Decatur,1951-01-07
+2201,male,Reginald Zimmerman,Des Moines,1998-01-04
+2202,male,Ricky Conkling,Nashville,1984-11-30
+2203,female,Monica Hall,Grand Rapids,1988-01-21
+2204,male,Ernestine Higgins,New Haven,1976-04-14
+2205,female,Erica Tylor,Springfield,1940-08-10
+2206,female,Edward Howard,San Diego,1966-06-02
+2207,female,Shirley Russell,Strongsville,1962-09-28
+2208,male,Annie Grimsley,Quincy,1945-01-30
+2209,female,Sara Boynton,Gaithersburg,1934-10-25
+2210,male,Shaun Barr,Huntsville,1950-12-21
+2211,male,Edna Barrett,Little Rock,1981-04-26
+2212,female,Jose Salazar,Corpus Christi,1935-04-07
+2213,male,Andre Zuniga,Newark,1976-08-18
+2214,male,Robert Moreno,Leesville,1957-12-02
+2215,female,Barbara Elrod,La Motte,1979-12-02
+2216,female,Reina Mobley,Bensenville,1945-03-08
+2217,female,Tammy Rodriguez,Redwood City,1994-05-15
+2218,female,Alice Lewis,Mount Pleasant Mills,1960-07-25
+2219,female,Jennifer Whittemore,Tomah,1971-05-05
+2220,male,Pauline Tate,Fremont,1987-01-20
+2221,female,Monte Green,Winston Salem,1935-07-03
+2222,male,Karen Houston,Miami,2000-10-01
+2223,female,Edwin Bottoms,Columbus,1959-10-03
+2224,male,Todd Estrada,Roseburg,1955-06-11
+2225,female,Carmen Wilson,Spokane,1967-08-20
+2226,female,Herbert Morgan,Matthews,1977-12-13
+2227,female,Martha Bishop,Bernville,1972-05-16
+2228,male,Martha Jackson,Atlanta,1957-05-21
+2229,male,Patrick Ulrich,Doral,1969-09-15
+2230,male,Jacklyn Phillips,Burkett,1964-02-23
+2231,female,Alicia Brown,Dutton,1995-03-12
+2232,male,Lorraine Weinberg,Temperance,1938-04-01
+2233,male,Suzanne Kopf,Springfield,1962-08-06
+2234,female,Mable Yeates,Las Vegas,1938-10-06
+2235,male,Jennifer Ortega,Richfield,1985-01-04
+2236,male,Andrew Cook,Wayne,1935-07-05
+2237,female,Ashley Reda,Portland,1996-03-16
+2238,male,Henry Price,Knoxville,1973-11-09
+2239,male,Constance Sanders,Bellfountain,1978-02-23
+2240,female,Jerome Hanna,Panama City,1960-08-07
+2241,female,Audrey Kifer,Irvine,1954-04-28
+2242,male,Edward Gregory,Cleveland,1989-05-13
+2243,male,Tony Petree,Plains,1974-05-17
+2244,male,Daniel Huber,Buffalo,1945-07-27
+2245,female,Jacob Rice,Palestine,1961-08-20
+2246,male,Carl Murphy,Salinas,1962-09-10
+2247,male,Sean Aleman,Windsor Mill,1979-07-19
+2248,female,Linda Bentley,Philadelphia,1963-09-16
+2249,male,Dennis Pitts,Houston,1954-11-17
+2250,male,Henry Wagner,New York,1976-09-21
+2251,male,Harry Howle,Gaston,1976-04-29
+2252,male,Geraldine Huffman,Vredenburgh,1953-05-05
+2253,male,Barbara McNeil,Milford,1992-07-10
+2254,female,Jerry Travis,Harold,1992-01-21
+2255,female,Mark Hoover,Antonia,1983-10-10
+2256,male,George Fisher,El Paso,1980-01-09
+2257,female,Tracy Galdamez,Germantown,1953-09-07
+2258,male,Cynthia Nunnery,Charlestown,1971-04-23
+2259,female,Otis Beal,Delton,1949-04-19
+2260,female,Jonna Hollenbeck,Dalton,1950-01-31
+2261,female,Joyce Jeanlouis,Menoken,1956-09-04
+2262,male,Maurice Anderson,Fowler,1995-03-05
+2263,male,Young Correll,California,1966-08-21
+2264,male,Mary West,Boswell,1959-03-15
+2265,female,Emma Frye,Midland,1942-05-25
+2266,male,Amy Roberts,Gardena,1982-07-25
+2267,male,Josefina Potts,Englewood,1981-03-04
+2268,female,Stephanie Cruz,Wayne,1944-10-11
+2269,male,Chris Garrett,Ashland,1940-05-01
+2270,female,Danny Davis,Hayden,1940-05-01
+2271,female,Steve Nixon,San Jose,1980-11-28
+2272,female,Nancy White,Cambridge,1962-03-29
+2273,female,Allen France,Wichita,1997-05-29
+2274,female,Mike Clark,Cherry Valley,1996-01-24
+2275,male,Jeffery Lentz,Jackson,1996-06-16
+2276,female,Lois Perry,Boca Raton,1946-02-16
+2277,female,Judy Reid,Herbertsville,1978-11-15
+2278,female,Daniel Asbury,Powell,1937-02-28
+2279,female,Roxanne Hembree,Needham,1983-06-07
+2280,male,Elizabeth Levine,Colorado Springs,2001-01-02
+2281,female,Ruth Chandler,Houston,1935-04-15
+2282,male,Ernest Hughes,Matthews,1957-04-08
+2283,male,William Noll,Elkland,1962-08-27
+2284,male,Heather Olivas,Tempe,1948-01-20
+2285,male,Kenneth Baughman,Philadelphia,2000-10-06
+2286,female,Nichole Sweeney,Nashua,1942-08-25
+2287,female,Carmella Maxwell,Harrisburg,1997-06-22
+2288,male,Clarence Hutchison,Orlando,1937-04-18
+2289,female,Ryan Preece,Dallas,1953-02-08
+2290,female,Jacqueline King,Brooklyn,1959-07-27
+2291,female,Lawrence Jaffe,Charlotte,1955-07-23
+2292,female,Jean Ziegler,Salina,1959-02-24
+2293,female,Glenn Harvey,Springfield,1962-11-17
+2294,male,Kent Groom,Burnsville,1994-01-16
+2295,male,Lucille Saulsberry,Burlingame,1980-05-15
+2296,female,Sherry Brandon,Lincoln,1997-04-10
+2297,male,Nina Robinson,Salinas,1995-04-16
+2298,female,Lula Smith,Dayton,1986-10-09
+2299,female,Vincent James,Elmhurst,1965-05-07
+2300,female,Steven Hanson,Baytown,1978-05-06
+2301,female,Tommy Kimbrell,Piscataway,1960-12-20
+2302,male,Dorothy Delarosa,Scott Depot,1937-10-16
+2303,male,Irvin Oliver,Corona,1950-02-14
+2304,female,Donald Wagstaff,Alhambra,1971-12-12
+2305,female,William Marin,Chicago,1961-05-15
+2306,female,Brenda Reed,Covington,1986-04-30
+2307,male,Andre Roach,Shreveport,1990-01-20
+2308,female,Joe Moody,Columbia,1977-05-09
+2309,male,Pauline Pyron,Monroe,1959-04-24
+2310,female,Jennie Hancock,Los Angeles,1986-10-13
+2311,female,John Prieto,Denver,1963-06-27
+2312,female,Matthew Kennedy,Binghamton,1960-11-10
+2313,female,Faye Trujillo,Homer,1964-09-16
+2314,male,Linda Comeau,Spring Bay,1969-07-16
+2315,male,David Papineau,New Rochelle,1955-07-30
+2316,female,Joanne Price,Dallas,1950-06-13
+2317,female,Jose Bennett,Tucson,1957-10-30
+2318,male,Bruce Munoz,Youngstown,1998-03-27
+2319,female,James Dunn,Louisville,1999-01-13
+2320,female,Ashley Moore,Longview,1954-05-24
+2321,male,Carolyn Wilson,New York,1983-04-19
+2322,female,Sheryl Modlin,Sterling,1955-12-14
+2323,male,Michelle Sharp,Los Angeles,1966-02-07
+2324,male,Larry Wiggins,Jersey City,1963-10-02
+2325,female,Martha Hernandez,Laurens,1938-12-14
+2326,female,Sean Whitney,Salt Lake City,1999-03-18
+2327,female,Majorie Reeves,New Berlin,1946-04-30
+2328,male,Evelyn Rogers,Hartford,1984-05-18
+2329,male,Barbara Nelson,Reidsville,1958-08-23
+2330,male,Valerie Woods,San Diego,1949-09-02
+2331,male,Daniel Bowers,Providence,1942-07-24
+2332,female,Homer Juarez,Merced,1971-03-16
+2333,female,Jerry McCarthy,Knoxville,1943-04-29
+2334,female,Gary Goforth,Tampa,1962-11-29
+2335,male,Cori Nave,Hollywood,1956-07-13
+2336,female,Kirby Pattison,Southfield,1983-12-30
+2337,male,Donna Fisher,Eagleville,1997-04-09
+2338,male,Stephen Paige,Tukwila,1958-04-13
+2339,male,Joshua Weaver,San Antonio,1950-03-31
+2340,female,Starr James,Westby,1936-10-07
+2341,female,Melissa Fulton,Gulfport,1955-04-28
+2342,female,Kevin Smith,Lubbock,1966-09-24
+2343,female,Tammy Fortier,Plant City,1993-09-14
+2344,female,Jason Diaz,Roanoke,1952-06-03
+2345,female,James Bunting,Greensboro,1962-03-13
+2346,male,Robert Reyes,Camden,1977-03-16
+2347,female,Johnnie Rowden,Little Rock,1960-10-18
+2348,male,Deborah Willis,Johnson City,1963-06-19
+2349,male,Molly Williams,Agawam,1956-02-02
+2350,female,William Ramirez,Louisville,1957-01-13
+2351,female,Steven Humphery,Portland,1973-05-16
+2352,female,Angela Heine,Hayward,1978-06-17
+2353,female,Lynne Davis,Portland,1959-03-19
+2354,male,Janet Olivarez,Newark,1939-06-14
+2355,male,Dianna Peterson,San Diego,1940-09-11
+2356,female,Robert Banks,Centennial,1936-01-12
+2357,male,Leticia Lyons,Casper,1953-08-16
+2358,male,Leslie Hair,Harvester,1977-10-04
+2359,male,Kathy Grissom,Playa Del Rey,1955-11-01
+2360,female,Ross McKinney,Ada,2001-08-11
+2361,male,Geraldine Williams,Mount Vernon,1998-06-10
+2362,female,Minnie Garcia,Los Angeles,1965-05-29
+2363,female,Jeffrey Gilbert,Greensboro,1979-04-17
+2364,male,Julie Raygoza,Shreveport,1955-10-16
+2365,female,Edwin Jaeger,Haymarket,1987-01-15
+2366,female,Julius Connelly,Richmond,1991-07-12
+2367,male,Maria White,Orlando,1997-07-04
+2368,female,David Gilbert,Seattle,1943-01-20
+2369,female,Ana Burt,Pittsburgh,1961-11-11
+2370,female,Tina Ashe,Augusta,1973-09-03
+2371,female,Cynthia Johnston,Partoun,1978-01-19
+2372,female,Sherry Hsu,Los Angeles,2000-05-08
+2373,male,Daniel Travis,Winchester,1972-01-16
+2374,male,Yvonne Wright,Boise,1985-01-18
+2375,female,Arthur Finley,Asheville,1937-01-14
+2376,female,Andrea Hayes,Menomonee Falls,1939-01-29
+2377,male,Jennifer Babcock,Bridgewater,1986-04-09
+2378,male,John Coleman,Houston,1969-02-05
+2379,female,Christopher White,Gosport,1953-11-29
+2380,female,Gary Lewallen,Richmond,1996-07-06
+2381,female,Pedro Early,Gainesville,1997-07-30
+2382,female,Jennifer Cross,Roxie,1995-08-27
+2383,male,Albert Collins,Whipholt,1955-02-04
+2384,male,Carl McCully,Louisville,1949-05-26
+2385,female,Kenneth Rine,Berea,1998-06-07
+2386,male,Manuel Crenshaw,Indian Orchard,1996-11-04
+2387,male,Ellen Hurst,Raleigh,1936-11-16
+2388,male,Denise Banks,Kemah,1959-02-14
+2389,male,Elizabeth Lewis,Marianna,1992-11-14
+2390,male,Leilani Blair,Wendover,1977-07-18
+2391,female,Dean Mendez,Aberdeen,1944-07-06
+2392,male,Robert Wells,Miami Springs,1946-07-26
+2393,male,Emma McMullen,Santa Anna,1938-05-20
+2394,female,Georgia Billingsley,Fort Lauderdale,1987-11-11
+2395,male,Eric Wegman,Detroit,1960-03-13
+2396,female,Zachary Merritt,Chattanooga,1997-11-19
+2397,male,Rick Funk,Atlanta,1997-01-21
+2398,female,Jerry Moses,Saginaw,1968-10-01
+2399,male,Michelle Moriarty,Dakota,1938-06-15
+2400,female,Hilda Faulkner,Cedar Rapids,1966-07-10
+2401,female,Robert Scott,Pittsburgh,1942-10-16
+2402,female,Anne Pounds,Beloit,1965-10-21
+2403,male,Rita Wise,Stone Mountain,1937-09-16
+2404,male,Lily Shinn,Jeffersonville,1979-10-07
+2405,female,Kevin Lewis,Mcallen,1958-09-08
+2406,female,Nathaniel Simonson,Sunnyvale,1989-01-30
+2407,female,James Maldonado,New York,1961-06-10
+2408,female,Kirk McDonald,Columbus,1966-07-05
+2409,female,Maryann Colella,San Francisco,1973-07-14
+2410,male,Rebecca Trujillo,San Francisco,1971-10-11
+2411,female,Jillian Lantigua,Albuquerque,1939-08-12
+2412,female,Nancy McInerney,Fairview Park,1950-10-09
+2413,male,James Warner,Garden City,1991-05-01
+2414,male,Arnold Stickel,Beaverton,1977-02-25
+2415,male,Michelle Winfield,Grenada,1973-01-01
+2416,male,Ed Rosario,Syracuse,1971-10-16
+2417,female,Mary Street,West Warwick,1961-01-07
+2418,female,Louis Smith,Madisonville,1991-04-21
+2419,male,Francisco Garcia,Provo,1958-10-10
+2420,male,Michelle Crawford,Chico,1948-07-01
+2421,female,Mary Perez,Griffin,1939-02-06
+2422,female,Dan Russell,Raleigh,1962-02-27
+2423,female,Ray Holliday,Pasco,1971-03-03
+2424,male,Boyce Thomas,Burr Ridge,1960-10-24
+2425,male,Kira Crum,Springfield,1941-08-19
+2426,female,Ronald Collins,Bridgeport,1951-01-12
+2427,male,Deane Brammer,Gardena,1942-08-15
+2428,female,Ted Osborne,Chicago,1957-11-12
+2429,male,Betty Brooks,Irvine,1945-04-09
+2430,male,Queenie Grover,Blairsville,1949-11-19
+2431,female,John Stewart,Bedford,1980-06-15
+2432,female,Ronald Hartin,San Francisco,1948-01-16
+2433,female,Bessie Snyder,Los Angeles,1955-10-21
+2434,male,Dan Lassiter,Charlotte,1953-08-01
+2435,male,Harriet Sanders,Bensalem,1935-09-27
+2436,female,Alice Hinson,Cambridge,1959-10-31
+2437,male,Mary Walker,New York,1975-08-31
+2438,male,Sandra Strother,Lexington,1948-11-01
+2439,male,Kevin Michel,Williamsville,1963-03-04
+2440,female,Roy Newsome,North Charleston,1991-03-13
+2441,female,Michelle Camp,Detroit,1940-11-14
+2442,female,Leona Haffner,New York,1970-09-12
+2443,male,Alfred Manns,Derby,1996-07-20
+2444,male,Lisa Graves,Wichita,1988-01-15
+2445,female,Kevin Kirby,Washington,1946-10-01
+2446,male,Maria Loeffler,Grand Rapids,1956-06-14
+2447,female,James Guffey,Rushford,1951-01-10
+2448,female,Judy Blaser,Freeport,1960-10-12
+2449,male,Lisa Bahena,South Bend,1969-11-22
+2450,female,Linda Gilbert,Fort Worth,1942-08-04
+2451,female,Willie Honaker,Bakersfield,1941-09-12
+2452,female,Esther Ricard,Metairie,1944-03-30
+2453,female,Tiffany Garner,Cocoa,1937-11-07
+2454,male,Marilyn Falgout,North Hollywood,1993-08-03
+2455,female,Lisa Phillips,Fort Lauderdale,1978-09-22
+2456,female,Kathy Bartlett,Athens,1976-11-06
+2457,male,Barbara Mayberry,Saginaw,1976-02-06
+2458,male,Amado Cooper,Keithville,1990-03-24
+2459,female,Ami Williams,Brockton,1993-12-26
+2460,female,Pamela Kay,Paoli,1968-08-12
+2461,male,Earl So,Alliance,1947-02-11
+2462,female,Tiffany Woodard,Potomac,1956-03-08
+2463,female,Clyde Peoples,Andover,1955-12-24
+2464,female,James Diaz,Philadelphia,2000-04-07
+2465,male,Jason Grimes,Teterboro,1979-10-28
+2466,female,Diana Oneil,Milton,1993-02-02
+2467,male,Adriana Rizzuto,San Francisco,1938-04-24
+2468,female,Pamela Jacobs,New York,1984-10-31
+2469,male,Laura Mayer,Dale City,1992-07-02
+2470,female,Kelly Shields,Sewickley,1946-12-06
+2471,female,Terry Ingram,Coachella,1958-03-15
+2472,female,Ben Willison,Owensboro,1985-12-13
+2473,female,Phillip Pease,Akron,1996-11-24
+2474,female,Amy Demelo,Bronx,1982-01-01
+2475,male,Max Lee,Byron,1939-08-02
+2476,male,Brenda Birch,West Orange,1965-04-06
+2477,male,Stephen Hagan,East Boston,1949-02-19
+2478,female,Roderick Coleman,Burlingame,1971-10-15
+2479,female,Kimberly Maas,Middletown,1978-01-14
+2480,female,Robert Rodriguez,Foxborough,1966-01-22
+2481,female,Kathy Box,Thief River Falls,1956-06-08
+2482,female,Blanche Catanzaro,Marquette,1996-12-26
+2483,female,Jeanne Holt,Florence,1946-02-20
+2484,female,Terry Hutchinson,Johnson City,1972-07-17
+2485,male,Judith Vanhoy,Eureka,1962-02-03
+2486,female,Danny Thompson,Portland,1990-06-11
+2487,male,Randy Ferrari,Hamburg (Calhoun),1972-03-30
+2488,male,Rose Brown,North Little Rock,1965-12-09
+2489,female,Patricia Ford,Livonia,1935-09-25
+2490,female,Alicia Briley,New York,1982-06-15
+2491,male,Angela Joseph,Rockville,1987-09-02
+2492,male,James Crawford,Kansas City,1962-02-03
+2493,female,Kathleen West,Westlake,1986-02-09
+2494,male,William Workman,Hilo,1949-10-08
+2495,male,Leslie Nash,Madisonville,1945-01-21
+2496,male,Toni Scott,Anchorage,1954-11-19
+2497,female,Danny Carroll,Ardmore,1991-08-07
+2498,male,Lois Renteria,Fontana,1944-10-15
+2499,male,Judy Loyd,Wheeling,1981-02-19
+2500,male,Elmer Oxendine,Southfield,1938-03-12
+2501,male,Cynthia Burks,Seattle,1975-08-20
+2502,female,Star Ewert,Bakersfield,1992-05-19
+2503,female,Richard Durkin,Algonquin,1941-09-24
+2504,female,Amy Dennison,Cleveland,1963-08-30
+2505,male,Athena Arnold,Sacramento,1941-02-11
+2506,male,Edwina McCue,San Gabriel,1974-10-15
+2507,female,Patricia Hill,Wilson,1939-11-19
+2508,female,Ann Brush,Norwalk,1994-08-19
+2509,male,Bobby Bennett,Huntsville,1970-06-06
+2510,female,Linda North,Coper Cove,1958-06-21
+2511,female,Terrance Thompson,Greenville,1935-10-15
+2512,male,Paul Blankenship,Manchester,1979-05-17
+2513,male,James Arroyo,Sheridan,1957-02-03
+2514,female,Betty Phillips,Monterey,1983-12-22
+2515,female,Adam Moore,Bowling Green,1945-06-13
+2516,female,Joaquin Mueller,Cinnaminson,1945-05-01
+2517,male,Lester Moore,Houston,1937-11-14
+2518,female,Willie Baugh,Westborough,1995-09-12
+2519,female,Monica Harmon,Louisville,1935-10-23
+2520,male,Denise Toscano,Roselle,1939-10-14
+2521,male,Sandra Grim,Tawakoni,1958-11-29
+2522,female,John Jones,Northampton,1946-12-14
+2523,male,Brian Gale,Huntington Station,1959-04-07
+2524,female,Joanne Mullens,San Diego,1966-11-06
+2525,female,Gary Crabtree,Omaha,1936-10-05
+2526,male,Pamela Swisher,Huntsville,1938-11-19
+2527,male,Doris Starr,Wheeling,1986-09-16
+2528,male,Joann Craney,Los Gatos,1998-07-04
+2529,male,Cynthia Williams,Gerald,1993-12-03
+2530,male,Evan Cash,Philadelphia,1952-10-02
+2531,male,Stacy Rowland,Memphis,1975-01-08
+2532,male,Michael Hatcher,Hartford,1943-12-14
+2533,female,Cynthia Gutshall,Bolingbrook,1953-08-13
+2534,male,Terry Chin,Reserve,1952-06-26
+2535,male,Margarita Zimmerman,Nashville,1993-06-02
+2536,female,Flossie Vandeventer,Charlotte,1995-05-20
+2537,female,Leonard Pfister,Jefferson City,1953-11-25
+2538,male,Kenneth Rhodes,Beaumont,1981-08-18
+2539,male,William Jaffe,Philadelphia,1945-01-28
+2540,male,Brandie Magee,Metamora,1947-06-11
+2541,male,Jennifer Jackson,San Francisco,1994-04-24
+2542,male,Christopher Bowie,Saint Louis,1970-12-12
+2543,male,Ingeborg Burk,Alexandria,1936-07-18
+2544,female,Mary McCarty,California,1956-09-14
+2545,male,Betty Wilson,Bowling Green,1938-03-29
+2546,male,Terrell Howell,Tampa,1953-09-03
+2547,female,Julie Buchanan,Harlingen,1961-01-31
+2548,female,Cynthia Rosson,Mount Olivet,1994-03-10
+2549,female,Lisa Outlaw,Poughkeepsie,1968-03-31
+2550,female,Jason Jo,Macon,1948-07-29
+2551,male,Jackie Russell,Columbia,1935-10-18
+2552,female,Josephine Hazard,Chester,1998-06-05
+2553,female,Gloria Godwin,Needham,1971-07-22
+2554,male,Angela Mays,Chicago,1953-07-07
+2555,male,Sharon Mickey,Galveston,1943-12-31
+2556,male,Micheal Denton,Bakersfield,1988-08-18
+2557,female,Deborah Becker,Philadelphia,1993-02-21
+2558,male,Robert Walsh,Lindsay,1965-04-28
+2559,female,Evelyn Sheedy,Ossining,1982-05-15
+2560,male,Katlyn Batson,Peoria,1963-03-14
+2561,male,Cheryl Albrecht,Ashton,1958-08-09
+2562,male,Carol Campbell,Greensboro,1950-01-26
+2563,female,Regina Turner,Hortonville,1987-11-08
+2564,female,Sheila Coop,Columbia,1935-11-29
+2565,female,Michael Jackson,El Paso,1989-05-26
+2566,male,Sonia Pecor,Silverdale,1960-04-18
+2567,male,Rita Cooper,Brecksville,1986-07-08
+2568,male,Peter Collins,Pensacola,1967-01-17
+2569,male,Andrew Nagel,Fenton,1944-11-02
+2570,male,Gary Moore,Dallas,1946-12-27
+2571,male,Ricardo Roper,Selma,1960-07-01
+2572,male,Jordan McClellan,Harrisburg,1983-09-26
+2573,male,Meagan Peterson,Los Angeles,1979-11-30
+2574,male,Betty Burns,Brenham,1991-03-03
+2575,male,James Anderson,Sumter,1953-09-23
+2576,male,Lula Sacco,Hillsboro,1981-01-04
+2577,male,Melissa Motley,Los Angeles,1938-09-04
+2578,male,Michelle Kelley,Bohemia,1949-11-22
+2579,female,Dorothy Cameron,Montclair,1942-04-13
+2580,female,Michael Quintana,Norristown,1990-08-13
+2581,male,Kenneth Ruiz,Pittsburgh,1978-12-11
+2582,female,Bradley Berry,Charlottesville,1945-09-06
+2583,male,Nu Ignacio,Grand Rapids,1941-02-05
+2584,male,Richard Walton,Southfield,1955-08-08
+2585,male,Henry Kahl,West Union,2000-04-09
+2586,female,Dawn Weis,Fort Worth,2001-02-26
+2587,male,Irene Cole,Greenville,1982-05-10
+2588,female,Justine Freeman,Upper Arlington,1952-06-21
+2589,female,Denise Horton,Tulsa,1936-07-05
+2590,female,Mary Kerr,Greeley,1973-01-27
+2591,female,Elva Evans,Bradley,1994-03-25
+2592,female,Joanne Morgan,Davidson,1975-01-26
+2593,female,Susan Slaughter,Shreveport,1979-08-12
+2594,male,Ruth Wilson,Sioux Falls,1983-08-19
+2595,male,Marvin Smith,Farmingdale,1963-08-15
+2596,female,Alma Brace,Tuckahoe,1996-09-29
+2597,female,Esther Harper,Harbor Springs,1986-03-21
+2598,male,Tim Clark,Bryant,2001-03-07
+2599,female,Jose Lapinski,Portageville,1996-02-05
+2600,male,Brian Cunningham,Ashaway,1944-06-05
+2601,male,Caroline Fay,Oakland,1971-07-18
+2602,female,Paul Walker,Irvine,1971-10-10
+2603,female,William Ramirez,Severna Park,1991-02-02
+2604,female,Dayna Vanallen,Denver,1951-04-22
+2605,male,Robert Dangelo,Narragansett,1936-05-20
+2606,male,Dale Varghese,Prosser,1964-02-24
+2607,female,Dominic Thornton,Martin,1943-05-20
+2608,female,Richard Brown,Jacksonville,1967-03-29
+2609,female,Courtney Mackay,Camarillo,1972-01-21
+2610,male,Sheri Knox,Lafayette,1999-03-15
+2611,female,Krystal Stapp,San Francisco,1962-08-14
+2612,male,Larry Silva,Bayonne,1986-06-13
+2613,male,Paul Blake,Encinitas,2001-04-30
+2614,male,Robert Clark,Tyler,1975-02-04
+2615,female,Maria Henriquez,New Orleans,1989-03-02
+2616,male,Emily Janes,Watervliet,1955-01-25
+2617,male,Catherine Coates,Astoria,1980-11-09
+2618,female,Richard Curry,Charlestown,1989-05-25
+2619,female,Kerry Howell,Framingham,2000-05-24
+2620,female,Charles Burdick,Lexington,1950-02-07
+2621,female,Bruce Robinson,Falkville,1982-03-13
+2622,male,Laura Spencer,Burbank,1955-11-16
+2623,male,Belinda Sanders,State College,1964-04-05
+2624,male,James Harris,San Carlos,1944-12-16
+2625,male,Lucila Wise,Maryland Heights,1977-11-04
+2626,female,Zona Pugh,Dallas,1950-03-18
+2627,male,Thomas Planas,Portland,1950-11-28
+2628,female,Amanda Holbrook,Fort Worth,1958-09-01
+2629,female,Diana Bronk,Johnson,1963-08-05
+2630,male,Essie Roby,North Augusta,1978-02-20
+2631,male,Bethany Helton,Bakersfield,1948-10-09
+2632,male,Steve Gilreath,Ohatchee,1965-08-20
+2633,male,Cathy Mercer,Syracuse,1950-03-31
+2634,female,Ryan Edwards,Waco,1939-12-29
+2635,female,Linda Bain,Pensacola,1966-02-28
+2636,male,Guadalupe Drewry,Muskegon,1987-01-04
+2637,male,Karen Harris,Centennial,1988-04-23
+2638,male,Samantha Rhodes,Riviera Beach,1966-02-07
+2639,female,Lisa Moore,Des Moines,1945-01-04
+2640,female,Raymond Casner,Bel Air,1994-05-14
+2641,male,Sandra Ek,Annapolis,1938-08-25
+2642,female,Robert Matlock,Blackfoot,1967-01-31
+2643,male,Alejandra Davis,Irvine,1961-02-04
+2644,female,Brenda Gary,Martinez,1946-05-23
+2645,male,Linda Clark,Denver,1952-04-24
+2646,female,John Gardner,Mattoon,1966-05-07
+2647,male,James Baughn,Princeton,1959-03-11
+2648,female,Don Jackson,Louisville,1991-03-01
+2649,male,Julian Clark,Houston,1969-05-02
+2650,female,Amanda Anderson,Chicago,1939-12-09
+2651,male,Robert Blecha,Seattle,1997-09-19
+2652,male,Martha Walls,Manchester,1990-12-12
+2653,male,Janet Hernandez,Waukesha,1997-10-31
+2654,male,Roger Marsh,Atlanta,1953-05-03
+2655,female,Al Lawson,Houston,1964-12-25
+2656,male,Daniel Haywood,Norcross,1962-06-22
+2657,male,Martha Ireland,Dallas,1949-08-11
+2658,male,Donald Garrett,Mansfield,1997-11-15
+2659,male,Jeffrey Steen,Los Angeles,2000-11-17
+2660,male,Verna Kelemen,Fayetteville,1986-06-29
+2661,male,Darrel Rios,Baltimore,1963-05-18
+2662,female,Florida Elston,Memphis,1966-04-02
+2663,female,Amy Brooks,Okeechobee,1970-09-18
+2664,female,Rick Brown,Little Rock,1990-05-01
+2665,female,Elizabeth Mason,Burbank,1991-05-16
+2666,male,Tara Fisher,Hugoton,1969-02-08
+2667,male,Daniel Skidmore,Pensacola,1939-12-04
+2668,male,Jacob Minor,Clayton,1974-09-16
+2669,female,Ruby Taylor,Newark,1961-04-14
+2670,male,Irene Yee,Des Moines,1949-12-01
+2671,male,Kelly Jones,Baltimore,1941-11-02
+2672,male,Kirk Chapman,Harbor Springs,1993-11-28
+2673,female,Rick Vanover,Henrietta,1992-04-15
+2674,male,Sherry Thomas,Vancouver,1954-05-26
+2675,female,Steve Flores,Southfield,1977-05-23
+2676,female,Clyde Wade,Cleveland,1974-10-16
+2677,male,Rogelio Miller,Denver,1965-03-08
+2678,male,Amy Shepard,Millbury,1976-06-21
+2679,female,David Lewis,Worcester,1956-08-02
+2680,male,Candy Duke,Jackson,1958-08-25
+2681,male,Gladys Hamilton,Ankeny,1946-08-06
+2682,female,Amber Rowland,San Diego,1936-02-26
+2683,male,Frederick Ozuna,Los Angeles,1986-06-08
+2684,male,David Timms,Minneapolis,1976-01-08
+2685,female,Ryan Bastian,Hales Corners,1991-04-17
+2686,female,Beverly Freeman,Washington,1993-03-12
+2687,male,Laurel Gossage,Tuscaloosa,1980-10-05
+2688,male,Martin Smith,Bloomington,1938-06-24
+2689,female,Adrian Titus,Passaic,1992-09-14
+2690,female,Betty Tirado,New Brunswick,1991-05-21
+2691,male,Ismael Zakrzewski,Bakersfield,1987-12-28
+2692,female,Douglas Evans,Reno,1991-09-06
+2693,male,Eleanor Cobb,Detroit,1942-09-20
+2694,male,Michael McCarthy,Grand Rapids,1967-12-18
+2695,male,Eric Swiderski,Los Angeles,1998-01-14
+2696,female,Brian Shepard,Ocala,1936-06-01
+2697,male,Nicholas Schneider,Lubbock,1994-02-11
+2698,male,Michael Yagi,Byron,1984-02-24
+2699,male,Marie Gonzales,Wailuku,1976-10-28
+2700,male,Albert Allen,Lebanon (Dodge),1943-04-06
+2701,male,Mary Thomas,Montgomery,1948-10-20
+2702,female,Lauren Mathis,Southfield,1980-06-29
+2703,female,Kenneth Dixon,Anaheim,2000-08-30
+2704,male,Christina Cole,Washington,1976-03-19
+2705,male,Duane Lord,Quartz Hill,1994-07-19
+2706,female,Charles Williams,Dallas,2001-07-22
+2707,male,Eric Adair,Jackson,1998-10-18
+2708,male,David Burnside,Panama City,1965-06-23
+2709,male,Michael Edmondson,Chattanooga,1948-01-29
+2710,male,Clyde Lavelle,Clarkston,1997-12-20
+2711,female,James Poor,Columbus,1937-12-04
+2712,female,Lauren Hyde,Rochester,1967-02-13
+2713,female,William Mansour,Salt Lake City,1988-10-07
+2714,male,Laura Fackler,Nashville,1946-01-30
+2715,female,Numbers West,Wayne,1971-08-09
+2716,female,Fletcher King,Fresno,1999-01-09
+2717,female,Evelyn Kelley,El Cajon,1938-09-06
+2718,female,Rey Cortez,Houston,1985-09-13
+2719,female,Mae Ashley,Minot,1967-09-15
+2720,male,John McCoy,Madison,1939-01-01
+2721,male,Lynn Waldo,Minneapolis,1980-04-28
+2722,male,David Wilcox,Pleasanton,1945-04-23
+2723,male,Douglas Davies,Denver,1935-08-01
+2724,male,Kenneth Davies,Indianapolis,1950-12-12
+2725,female,Susan Sartori,South Bend,1956-08-13
+2726,female,Kevin Thorpe,Lake City,1988-05-06
+2727,female,Rachel Lopez,San Francisco,1977-08-23
+2728,male,Steven Cohen,Liverpool,1960-02-10
+2729,female,Evelyn Yang,Essex Junction,1935-03-25
+2730,female,Wilbert Beyer,Toledo,1975-08-13
+2731,female,Minnie Mori,Miramar,1948-11-19
+2732,male,Lewis McLaughlin,Grandin,1948-09-22
+2733,female,Alvin Caudillo,Oakland,1978-09-24
+2734,female,Tina Penix,Palo Alto,1986-04-02
+2735,male,Ruben Whitney,Collingswood,1974-02-16
+2736,male,Donovan Vogt,Kansas City,1947-02-25
+2737,male,Olen Murray,Roselle,1949-07-15
+2738,female,Michael Hansen,Washington,1985-01-25
+2739,female,Stephen Jolly,Seattle,1949-06-28
+2740,female,Mary McTaggart,Charleston,1949-04-12
+2741,male,Rhonda Gomez,Indianapolis,1980-06-04
+2742,female,Joseph Hurst,Wausau,1996-01-26
+2743,male,Kyle Scott,Purdon,1974-12-04
+2744,male,Doris Smith,Bakersfield,1974-06-12
+2745,male,Alice Anderson,Saint Cloud,1984-07-11
+2746,female,Robert Elizondo,Mobile,1935-06-13
+2747,female,Jacqueline Menzies,Houston,1939-05-11
+2748,female,Ada Watson,Versailles,1973-04-10
+2749,female,Allen McLeod,Houston,1939-10-17
+2750,male,Latasha Wallen,Reston,1984-12-21
+2751,male,Ernestine Wade,Gardena,1942-09-11
+2752,male,Logan Foster,Madison,1939-04-19
+2753,male,Kendra Hickey,Providence,1937-09-14
+2754,male,Wendy Williams,Reston,1964-10-16
+2755,female,Brenda Flores,Kansas City,1985-11-28
+2756,male,Laura Fraser,New York,1974-12-18
+2757,male,Felix Lopez,Stockton,1954-04-17
+2758,male,Inez Steger,Champaign,2000-03-10
+2759,female,Ferdinand Ignacio,Oakland,1950-02-06
+2760,male,Sergio Longoria,New Orleans,1973-03-10
+2761,female,Nicholas Pond,Huntsville,1952-04-17
+2762,male,Kristin Miller,Ramsey,1948-08-22
+2763,male,Francoise Fernandez,Denver,1981-02-12
+2764,male,Fannie Antonucci,Winchester,1962-11-20
+2765,female,Vicki Garling,Baltimore,1975-10-01
+2766,male,Grace Smith,Raleigh,1985-09-26
+2767,male,James Lyons,Providence,1972-09-20
+2768,male,Roy Cordes,Kent,1950-02-01
+2769,male,Kenneth Bermudes,Holt,1966-03-06
+2770,male,William Talbot,Tucson,1949-10-19
+2771,female,Alfred Dunn,Richmond,1986-06-08
+2772,male,Kelly Baynes,Portland,1960-03-10
+2773,female,Brian Powell,Reno,1975-06-04
+2774,male,Marcus Ortiz,Nashville,1955-06-10
+2775,male,Jeffrey Murphy,Detroit,1980-06-15
+2776,male,Rick Kang,Alice,1954-07-10
+2777,male,Ida Duchene,Omaha,1983-04-06
+2778,female,Arthur Kennedy,Riverside,1942-12-12
+2779,male,Kimberly Stewart,Hopkinsville,2001-04-07
+2780,male,Beverly Orange,Cincinnati,1996-05-10
+2781,male,Pedro Reardon,Conroe,1949-01-23
+2782,male,Alberto Lawrence,Harold,1945-02-17
+2783,male,Don Davis,Rocklin,1965-12-01
+2784,female,Mary Stewart,Ashland,1946-07-30
+2785,male,Sherron Graves,Phila,2000-10-15
+2786,male,George Cole,Tiff,1999-11-23
+2787,female,Alvin Galipeau,Charleston,1955-11-05
+2788,male,Ginger Burt,Dallas,1977-11-06
+2789,female,Lucy Hobson,New York,1963-01-16
+2790,male,Jennifer Buch,La Mesa,2001-06-24
+2791,male,Kevin Gonzales,Houston,1943-03-23
+2792,female,Richard Caldwell,Doral,1977-12-15
+2793,male,Candra Smith,Detroit,1977-10-12
+2794,male,Roy Crowell,Phoenix,1958-06-14
+2795,female,Brenda Cunningham,Eau Claire,1935-10-20
+2796,female,Mark Evans,Arlington,1998-05-25
+2797,female,Dominique Johns,Caroga Lake,1946-07-25
+2798,male,Brian Braun,Merrimac,1977-10-04
+2799,male,George Hampton,Waipahu,1963-12-09
+2800,male,Timothy York,Wichita Falls,1940-11-11
+2801,male,John Carson,Kansas City,1949-08-31
+2802,male,Michele Smith,Bartlesville,1954-07-07
+2803,male,Wanda Rabideau,Waco,1966-02-17
+2804,female,Jean Avila,Austin,1968-03-26
+2805,female,Eric Murray,Salem,1984-07-27
+2806,female,Virginia Barbosa,Camden,1978-02-10
+2807,female,Melanie Spillane,Zephyrhills,1939-01-28
+2808,female,Linda Goldberg,San Francisco,1947-02-11
+2809,female,Luis Pitt,New London,1963-09-29
+2810,female,David Kratz,Golden Valley,1965-07-30
+2811,female,Elizabeth Byrne,Vacaville,1978-11-01
+2812,female,Douglas Bailey,West Roxbury,1947-10-28
+2813,female,Maryalice Henson,Panola,1960-10-05
+2814,female,Tawanna Trask,Lakeport,1949-08-23
+2815,female,Laurie Smith,Worcester,1999-07-17
+2816,female,Kurt Babbitt,New Haven,1951-03-14
+2817,male,Jennifer Smith,Oklahoma City,1959-04-12
+2818,male,Annette Rodriguez,Atlanta,1975-06-15
+2819,female,Mark Mullenix,Gulfport,1938-07-27
+2820,male,Rebecca Goodell,Camden,1972-04-30
+2821,male,Linda Hurtado,Raleigh,1960-03-05
+2822,female,Rudy Le,Ogden,1992-05-21
+2823,male,Therese Johannes,Dadeville,1977-02-25
+2824,male,Juanita Conti,Charleston,1949-04-09
+2825,female,Eric Weed,Ouray,1972-03-29
+2826,female,Dan Valentine,Bronx,1952-03-02
+2827,female,Elizabeth Nix,Branchburg,1948-12-23
+2828,male,Jennifer Barthel,Marshall,1967-06-28
+2829,male,Christopher Jolly,Columbia,1967-07-01
+2830,female,Annie Riley,Atlanta,1948-07-03
+2831,male,Dominique Martin,Olympia,1967-02-07
+2832,male,Gerald Fowler,Gilbert,1935-11-13
+2833,male,Ralph Blankenship,Grand Rapids,1965-07-14
+2834,male,Dominic Pickens,Dallas,1975-05-05
+2835,male,David Villegas,Nicolaus,1949-02-17
+2836,male,William Gravois,Crafton,1980-02-20
+2837,female,Joaquin Tilley,Edenton,1955-10-14
+2838,male,Amanda Garcia,Atlanta,1972-08-21
+2839,male,Daniel Berg,Poughkeepsie,1948-02-12
+2840,male,George Gonzalez,Monona,1993-03-03
+2841,female,Michael Hill,Belpre,1977-08-20
+2842,female,Lawanna Underwood,Evergreen,1985-03-16
+2843,female,Kathleen Glaser,Mountain View,1947-07-17
+2844,female,Keith Carner,Charlotte,1944-12-22
+2845,female,Sherry Gentry,Chicago,1969-10-25
+2846,male,Idalia Taylor,Mercedes,1948-12-24
+2847,female,Loan Cooley,Selinsgrove,1958-07-02
+2848,female,Patricia Hoskins,Lott,1965-08-22
+2849,male,Dawn Reed,Prairie City,1961-03-17
+2850,female,Justin Bowles,Richmond,1961-09-16
+2851,female,Elizabeth Steele,Orlando,1983-10-30
+2852,female,Jennifer Pritchard,Salem,1972-07-09
+2853,female,Paul Gross,Jacksonville,1958-12-05
+2854,female,Wesley Salvatore,Huntington,1963-03-24
+2855,female,Rachel McCoy,Paducah,1953-05-05
+2856,male,Cynthia Callahan,Albany,1993-07-29
+2857,female,David Burrows,Columbus,1949-07-14
+2858,male,Brian Morrison,Ottumwa,1970-09-09
+2859,female,Susan Cleveland,Tampa,1956-01-17
+2860,male,Joseph Johnson,Elmhurst,1980-02-27
+2861,female,Joseph Major,Rocky Mount,1960-09-14
+2862,male,Helen Blair,Greenwich,1961-08-13
+2863,male,Pedro Rowe,Pittsburgh,1977-10-16
+2864,female,Jane Bass,Defiance,1984-10-17
+2865,female,Jennifer Person,Lake Mary,1996-11-25
+2866,male,Michael Stalling,Tampa,1946-09-29
+2867,female,Marilyn Norman,Littleton,1970-02-23
+2868,female,Chris Zarate,Burbank,1934-12-06
+2869,male,Sergio Coletti,Fort Myers,1996-06-12
+2870,male,Sandra Jenkins,Houston,1995-03-04
+2871,male,Lonnie Anderson,Cincinnati,1936-11-08
+2872,female,Shaun Carson,Carson,2001-05-05
+2873,female,Alex Stroman,Portland,1990-09-19
+2874,male,Maria Hong,Lubbock,1951-11-02
+2875,male,Mariah Charles,Hialeah,1990-09-21
+2876,female,Robert Hickey,Los Angeles,2000-01-04
+2877,female,Karen Bozeman,Seattle,1946-10-17
+2878,male,Patsy Reed,Defiance,1966-10-21
+2879,female,Susan Defelice,Madison,1941-05-28
+2880,male,George Adair,Piscataway,1981-11-07
+2881,female,Thaddeus Corn,Burr Ridge,2000-03-15
+2882,female,Michelle Jordan,Stockton,1941-05-04
+2883,female,Sandra Caldwell,Westminster,1948-01-05
+2884,female,Robert Gallo,Greensboro,1982-03-18
+2885,female,Daniel Burlison,Richmond,1956-12-04
+2886,male,Ruth Stewart,Somerset,1995-06-04
+2887,female,Timothy McDonald,San Jose,1946-08-22
+2888,male,Albert Suarez,Clinton,1989-11-21
+2889,male,Peter Todd,Des Plaines,1940-11-28
+2890,male,Crystal Valentin,Garden City,1955-11-10
+2891,male,Allen Stark,Rock Hill,1961-06-15
+2892,female,Frances Grimes,Olney,1952-08-16
+2893,male,Kevin Garcia,Providence,1961-05-05
+2894,female,Joey Batiste,Ashtabula,1983-08-10
+2895,female,Sam McDaniel,Blue Mound,1946-02-21
+2896,female,Charles Smith,Little Rock,1957-03-16
+2897,male,Jesus Werner,Berne,1947-05-09
+2898,male,Shannon Alexander,Lansing,1969-04-20
+2899,female,Philip Elliott,Reno,1994-03-18
+2900,male,Gloria Hamilton,Rochester,1970-08-09
+2901,male,Scott Gutierrez,Saint Paul,1967-03-19
+2902,female,Jodie Quackenbush,Milwaukee,1997-11-29
+2903,female,Jose Hofmann,Sacramento,1961-08-20
+2904,male,Jenna Olds,Seattle,1959-11-10
+2905,female,Ruby Rasmussen,West Haverstraw,1990-06-19
+2906,female,Vivian Guzik,San Francisco,2000-01-23
+2907,female,Violet Bartel,Binghamton,1976-04-26
+2908,female,Gerard Smith,Phoenix,1964-07-23
+2909,female,Ronnie Beasley,Westerville,1965-07-27
+2910,female,James Diaz,East Syracuse,1986-05-04
+2911,female,Rupert Gunn,Hartford,1936-03-29
+2912,female,Cynthia Simmons,Rancho Cordova,1961-08-09
+2913,female,Pam Joseph,Tulsa,1965-09-19
+2914,female,Garth Greenberg,Fremont,1963-01-19
+2915,male,Marie Swanson,Saint Louis,1988-03-03
+2916,male,John Miller,Westerville,1997-03-18
+2917,female,Sanjuanita Jones,Pomona,1984-01-02
+2918,male,Chrystal Simms,Orlando,1945-11-12
+2919,female,Eddie Bazemore,Albion,1944-03-01
+2920,male,Robbin Frazier,Scarsdale,1977-03-07
+2921,male,Harry Bland,Harrisburg,1969-03-10
+2922,male,Michael Collie,O Fallon,1947-08-20
+2923,male,Christian Bell,Norwalk,1994-08-22
+2924,male,Dolores Snyder,Oklahoma City,1961-12-10
+2925,female,Arthur Lacombe,Boca Raton,1970-12-20
+2926,male,Joseph Behrens,Cedarville,1984-10-23
+2927,female,Marie Tetreault,Irvine,1985-08-30
+2928,male,Billy Todaro,Hampton,1961-05-02
+2929,female,Theresa Moon,Miami,1993-03-29
+2930,female,Bessie Schultz,Dallas,1985-05-04
+2931,female,Kathe Torres,Meshik,1940-11-26
+2932,female,Esther Garvey,Detroit,1953-05-12
+2933,female,Ruth Johnson,Maxwell,1987-09-19
+2934,female,Marian Cowell,Beltsville,1990-09-11
+2935,male,Carolyn Coles,Wayzata,1939-03-21
+2936,male,Carl Pino,Columbus,1957-10-19
+2937,female,Alice McBride,Norfolk,1999-04-28
+2938,female,Mary Cook,Kansas City,1954-09-04
+2939,male,Alma Herzog,Bedford,1961-12-04
+2940,male,Wilma Vida,Plano,1980-07-11
+2941,male,Carol Hennessey,Newark,1947-04-30
+2942,male,Anita Redrick,Beaumont,1974-08-13
+2943,female,Jack Coble,Riegelsville,1997-03-17
+2944,male,Christopher Marshall,Salt Lake City,1998-02-15
+2945,male,Delmar Fernandez,Riverside,1939-08-20
+2946,male,Joseph Espinoza,Burbank,1938-12-23
+2947,male,Carmelo Salo,Franklin,1966-04-15
+2948,female,Alexandria Smith,Poughkeepsie,1973-10-30
+2949,male,Rickie Williams,Atlanta,1971-08-20
+2950,male,Ruth Dillon,Maple Shade,1948-07-24
+2951,female,Nathan Gillis,Fort Lauderdale,1943-05-13
+2952,male,Adam Little,Okeechobee,1954-06-13
+2953,male,Randy Nguyen,Honolulu,1983-08-24
+2954,male,Nathan Bergeron,West Hartford,1968-09-04
+2955,female,Jane Douglas,Pampa,1999-10-18
+2956,female,Ian Zager,Beltsville,1969-12-04
+2957,male,Ann Green,Random Lake,1949-06-23
+2958,female,Mary Anderson,Waterproof,1982-01-25
+2959,female,Inez Cochran,Quartz Hill,1985-07-10
+2960,male,Janet Drysdale,Hill City,1975-11-22
+2961,male,Sarah Banks,Buffalo,1963-09-20
+2962,male,Jaime Scarbrough,Pomona,1989-11-23
+2963,male,Gustavo Reeves,Los Angeles,1996-03-20
+2964,male,Maureen Haskins,Tucson,1992-06-21
+2965,male,John Flores,Greenwood,1996-06-24
+2966,female,Judith Barker,Milwaukee,1991-07-28
+2967,female,Katherine Malone,Leesburg,1949-05-06
+2968,female,Robin Wallace,Chicago,1969-08-24
+2969,female,Susan Davis,Kihei,1966-12-22
+2970,female,Jean Chang,Plymouth,1978-12-12
+2971,female,Claire Downing,Magnetic Springs,1935-05-02
+2972,male,Valerie Clark,Lawrence,1948-11-03
+2973,female,Paul Bond,Buffalo,1936-12-23
+2974,female,Megan Oliva,Baltimore,1989-02-12
+2975,male,Theresa Burke,Hollywood,1992-08-23
+2976,male,Shantae Desmond,Terre Haute,1975-12-07
+2977,male,Ezra Black,Indianapolis,1959-10-20
+2978,female,Scott Garcia,Dallas,1986-01-05
+2979,female,Ray Hernandez,Granite City,1955-01-07
+2980,female,Kenny Dodson,Philadelphia,1956-02-29
+2981,female,Joyce Matthews,Nauvoo,1982-04-08
+2982,male,Kendall Murguia,San Francisco,1948-10-24
+2983,female,Sandra Boggs,Anaheim,1982-09-30
+2984,female,William Williams,Orlando,1935-05-03
+2985,male,Edna Thomas,Plainfield,1948-03-17
+2986,female,Maria Tapia,Newark,1963-11-15
+2987,female,Felicia McPherson,Youngstown,1986-03-15
+2988,male,William Carroll,Tucson,1957-07-13
+2989,female,Lillian Mitchell,Columbus,1946-04-18
+2990,male,Marvin Eason,San Jose,1954-05-08
+2991,male,Kelly Laliberte,Indianapolis,1966-11-18
+2992,male,Victor Smith,Standish,1998-01-02
+2993,male,George Cartwright,Arlington Heights,1996-03-29
+2994,male,Angela Luis,San Diego,1970-07-27
+2995,female,Freddy Paquette,Irvine,1942-10-14
+2996,male,Norbert Bass,Harriman,1956-09-08
+2997,male,Anita Hannah,Cheraw,1959-08-15
+2998,male,Dolores Mosier,San Antonio,1954-04-17
+2999,male,Lori Crespo,Kingsport,1994-11-01
+3000,male,Sergio Bixler,Jackson,1956-09-04

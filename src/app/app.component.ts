@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +6,18 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-concepts';
+
+  title = 'Bem vindos ao Angular!';
+
+  itensMenu = [
+    {
+      link: '',
+      label: 'Home'
+    },
+    {
+      link: 'pessoas',
+      label: 'Listar Pessoas'
+    },
+  ];
+
 }

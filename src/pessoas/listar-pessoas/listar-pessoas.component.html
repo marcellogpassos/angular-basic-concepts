@@ -1,0 +1,100 @@
+<h2>Listar Pessoas</h2>
+<hr>
+
+<div *ngIf="queryParameters" class="card mb-4">
+  <div class="card-header bg-dark text-light">
+    Buscar
+  </div>
+  <div class="card-body">
+    <div class="row">
+      <div class="col-6 nome">
+        <div class="form-group">
+          <label for="nomeInput">Nome</label>
+          <input type="text" class="form-control" id="nomeInput" [(ngModel)]="queryParameters.name">
+        </div>
+      </div>
+      <div class="col-6 cidade">
+        <div class="form-group">
+          <label for="cidadeInput">Cidade</label>
+          <input type="text" class="form-control" id="cidadeInput" [(ngModel)]="queryParameters.city">
+        </div>
+      </div>
+      <div class="col-6 sexo">
+        <div class="form-group">
+          <label>Sexo</label>
+        </div>
+        <div class="row custom-control custom-radio custom-control-inline">
+          <div class="col">
+            <input type="radio" id="femaleRadio" name="gender" class="custom-control-input"
+                   [(ngModel)]="queryParameters.gender" [value]="Gender.Female">
+            <label class="custom-control-label" for="femaleRadio">{{ Gender.Female | gender }}</label>
+          </div>
+          <div class="col">
+            <input type="radio" id="maleRadio" name="gender" class="custom-control-input"
+                   [(ngModel)]="queryParameters.gender" [value]="Gender.Male">
+            <label class="custom-control-label" for="maleRadio">{{ Gender.Male | gender }}</label>
+          </div>
+          <div class="col">
+            <input type="radio" id="bothRadio" name="gender" class="custom-control-input"
+                   [(ngModel)]="queryParameters.gender" [value]="">
+            <label class="custom-control-label" for="bothRadio">Ambos</label>
+          </div>
+        </div>
+      </div>
+      <div class="col-6 idade">
+        <div class="row">
+          <div class="col">
+            <div class="form-group">
+              <label for="minAgeInput">Idade Mínima</label>
+              <input type="number" class="form-control" id="minAgeInput" [(ngModel)]="queryParameters.minAge"
+                     min="0" [max]="queryParameters.maxAge">
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group">
+              <label for="maxAgeInput">Idade Máxima</label>
+              <input type="number" class="form-control" id="maxAgeInput" [(ngModel)]="queryParameters.maxAge"
+                     [min]="queryParameters.minAge" max="150">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="card-footer">
+    <div class="row">
+      <div class="col-3">
+        <button class="btn btn-primary btn-block" (click)="buscar()">Buscar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="loading" class="spinner-border" role="status">
+  <span class="sr-only">Loading...</span>
+</div>
+
+<table class="table table-striped mt-4" [hidden]="loading">
+  <thead class="bg-dark text-light">
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Nome</th>
+    <th scope="col">Cidade</th>
+    <th scope="col">Sexo</th>
+    <th scope="col">Idade</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let pessoa of (pessoas$ | async) | paginated:paginationSettings">
+    <td>{{ pessoa.id }}</td>
+    <td>{{ pessoa.name }}</td>
+    <td>{{ pessoa.city }}</td>
+    <td>{{ pessoa.gender | gender }}</td>
+    <td>{{ pessoa.birthday | age }}</td>
+  </tr>
+  </tbody>
+</table>
+
+<ngb-pagination *ngIf="!loading" [collectionSize]="paginationSettings.collectionSize"
+                [page]="paginationSettings.page" (pageChange)="updatePage($event)"
+                [maxSize]="6" [rotate]="true" [boundaryLinks]="true"></ngb-pagination>
