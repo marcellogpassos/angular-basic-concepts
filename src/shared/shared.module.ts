@@ -1,16 +1,23 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { PaginatedPipe } from './paginated.pipe';
-
-
+import {NgModule} from '@angular/core';
+import {CommonModule} from '@angular/common';
+import {PaginatedPipe} from './paginated.pipe';
+import {AgePipe} from './age.pipe';
+import {GenderPipe} from './gender.pipe';
 
 @NgModule({
-    declarations: [PaginatedPipe],
-    exports: [
-        PaginatedPipe
-    ],
-    imports: [
-        CommonModule
-    ]
+  declarations: [
+    AgePipe,
+    GenderPipe,
+    PaginatedPipe
+  ],
+  exports: [
+    AgePipe,
+    GenderPipe,
+    PaginatedPipe
+  ],
+  imports: [
+    CommonModule
+  ]
 })
-export class SharedModule { }
+export class SharedModule {
+}

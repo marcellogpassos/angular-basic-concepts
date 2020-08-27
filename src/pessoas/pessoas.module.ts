@@ -7,8 +7,6 @@ import {NgbAlertModule, NgbPaginationModule} from '@ng-bootstrap/ng-bootstrap';
 import {HttpClientModule} from '@angular/common/http';
 import {PessoasService} from './pessoas.service';
 import {CsvReader} from './csv-reader.service';
-import {AgePipe} from './age.pipe';
-import {GenderPipe} from './gender.pipe';
 import {FormsModule} from '@angular/forms';
 import {SharedModule} from '../shared/shared.module';
 
@@ -16,8 +14,6 @@ import {SharedModule} from '../shared/shared.module';
 @NgModule({
   declarations: [
     ListarPessoasComponent,
-    AgePipe,
-    GenderPipe
   ],
   imports: [
     CommonModule,

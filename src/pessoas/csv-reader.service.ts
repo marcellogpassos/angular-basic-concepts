@@ -9,11 +9,9 @@ export class CsvReader {
   constructor() {
   }
 
-  private static isValid(line: string): boolean {
-    return line.trim().length > 0 && line.split(',').length === 5;
-  }
+  private isValid = (line: string): boolean => line.trim().length > 0 && line.split(',').length === 5;
 
-  private static readLine(line: string): Pessoa {
+  private readLine = (line: string): Pessoa => {
     const columns = line.split(',');
     return {
       id: +columns[0],
@@ -34,7 +32,7 @@ export class CsvReader {
   read(fileContent: string): Pessoa[] {
     const [, ...headerRemoved] = fileContent.split('\n');
     return headerRemoved
-      .filter(CsvReader.isValid)
-      .map(CsvReader.readLine);
+      .filter(this.isValid)
+      .map(this.readLine);
   }
 }

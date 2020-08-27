@@ -28,11 +28,12 @@ export class PessoasService {
    *
    */
   find(queryParameters?: PessoasQueryParameters): Observable<Pessoa[]> {
+    const pessoasFilter = new PessoasFilter(queryParameters);
     return this.http.get(`${this.api}/pessoas`, {responseType: 'text'})
       .pipe(
-        map(this.csvReader.read),
+        map(this.csvReader.read, this.csvReader),
         flatMap(from),
-        filter(pessoa => new PessoasFilter(queryParameters).filter(pessoa)),
+        filter(pessoasFilter.filter, pessoasFilter),
         toArray(),
       );
   }
